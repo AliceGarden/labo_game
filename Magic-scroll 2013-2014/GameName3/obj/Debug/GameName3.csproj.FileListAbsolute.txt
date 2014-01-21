@@ -1,0 +1,362 @@
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\GameName3.exe
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\GameName3.pdb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\resources.pri
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\AppxManifest.xml
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\GameName3.build.appxrecipe
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\MonoGame.Framework.dll
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\SharpDX.Direct2D1.dll
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\SharpDX.Direct3D11.dll
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\SharpDX.dll
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\SharpDX.DXGI.dll
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\SharpDX.MediaFoundation.dll
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\SharpDX.XAudio2.dll
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\SharpDX.XInput.dll
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\MonoGame.Framework.xml
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\SharpDX.xml
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\SharpDX.XInput.xml
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\SharpDX.Direct2D1.xml
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\SharpDX.Direct3D11.xml
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\SharpDX.DXGI.xml
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\SharpDX.MediaFoundation.xml
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\SharpDX.XAudio2.xml
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\obj\Debug\GameName3.csprojResolveAssemblyReference.cache
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\obj\Debug\GameName3.exe
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\obj\Debug\GameName3.pdb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\obj\Debug\SharpDX\en-us\SharpDX.Properties.Resources.resw
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\obj\Debug\GameName3.csproj.GenerateResource.Cache
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\obj\Debug\SharpDX.pri
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\obj\Debug\SharpDX\LanguageQualifiers.txt
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\obj\Debug\priconfig.xml.intermediate
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\obj\Debug\layout.resfiles.intermediate
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\obj\Debug\resources.resfiles.intermediate
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\obj\Debug\pri.resfiles.intermediate
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\obj\Debug\priconfig.xml
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\obj\Debug\layout.resfiles
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\obj\Debug\resources.resfiles
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\obj\Debug\pri.resfiles
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\obj\Debug\LanguageQualifiers.txt
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\obj\Debug\ProjectArchitectures.txt
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\1443.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\50ShowCard.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\ArialFont.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\foretW.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\Logo.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\ParchmentFont.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\Septre(eau).xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\Septre(feu).xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\Septre(terre).xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\Septre.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\ShowCard.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\Sprite Magicienne dos.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\Sprite magicienne marche1.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\Sprite magicienne.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\terre qui casse.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\vent son.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\Background\Volcan-3.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\Background\Foret-1.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\Background\Foret-2.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\Background\Foret-3.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\Background\Foret-4.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\Background\Foret-5.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\Background\Nuage1.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\Background\Nuage2.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\Background\Nuage3.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\Background\Volcan-1.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\Background\Volcan-2.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\Background\Volcan-4.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\Background\Volcan-5.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\ElementsMenu\backgroundOption.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\ElementsMenu\Bestiaires.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\ElementsMenu\BestiairesA.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\ElementsMenu\Bouton reussi foret.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\ElementsMenu\Bouton reussi tuto.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\ElementsMenu\Bouton reussi volcan.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\ElementsMenu\Bouton vierge foret A.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\ElementsMenu\Bouton vierge foret.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\ElementsMenu\Bouton vierge Tuto A.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\ElementsMenu\Bouton vierge Tuto.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\ElementsMenu\bouton vierge volcan A.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\ElementsMenu\Bouton vierge volcan.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\ElementsMenu\Carte.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\ElementsMenu\Menu Paysage.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\ElementsMenu\Menu Portrait.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\ElementsMenu\menuBouton.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\ElementsMenu\MenuFin.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\ElementsMenu\MenuFin2.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\ElementsMenu\Niveau precedent.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\ElementsMenu\Niveau precedentA .xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\ElementsMenu\Niveau précédent foret A.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\ElementsMenu\Niveau précédent foret.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\ElementsMenu\Niveau précédent volcan A.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\ElementsMenu\Niveau précédent volcan.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\ElementsMenu\Niveau suivant foret.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\ElementsMenu\Niveau suivant foretA.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\ElementsMenu\Niveau suivant volcan A.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\ElementsMenu\Niveau suivant volcan.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\ElementsMenu\Niveau suivant.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\ElementsMenu\Niveau suivantA.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\ElementsMenu\Noir.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\ElementsMenu\Pause.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\ElementsMenu\PauseA.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\ElementsMenu\Play.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\ElementsMenu\PlayA.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\ElementsMenu\Quitter.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\ElementsMenu\QuitterA.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\ElementsMenu\Reprendre.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\ElementsMenu\ReprendreA.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\ElementsMenu\reset.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\ElementsMenu\ResetA.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\ElementsMenu\Select niveau 0.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\ElementsMenu\Select niveau foret.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\ElementsMenu\Select niveau volcan.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\ElementsMenu\SonOff.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\ElementsMenu\SonOn.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\ElementsMenu\Succès.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\ElementsMenu\SuccèsA.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\RouePouvoir-Sceptre\Air Active.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\RouePouvoir-Sceptre\Eau Active.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\RouePouvoir-Sceptre\Feu Active.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\RouePouvoir-Sceptre\Roue des pouvoir.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\RouePouvoir-Sceptre\Sceptre(eau).xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\RouePouvoir-Sceptre\Sceptre(feu).xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\RouePouvoir-Sceptre\Sceptre(terre).xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\RouePouvoir-Sceptre\Sceptre(vent).xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\RouePouvoir-Sceptre\Sceptre.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\RouePouvoir-Sceptre\Sprite Eau.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\RouePouvoir-Sceptre\Sprite feu.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\RouePouvoir-Sceptre\Sprite Sceptre (E).xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\RouePouvoir-Sceptre\Sprite Sceptre (F).xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\RouePouvoir-Sceptre\Sprite Sceptre (T).xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\RouePouvoir-Sceptre\Sprite Sceptre (V).xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\RouePouvoir-Sceptre\Sprite terre.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\RouePouvoir-Sceptre\Terre Active.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\RouePouvoir-Sceptre\truc des sorts.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\ElementsInteractifs\=3.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\ElementsInteractifs\bambou.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\ElementsInteractifs\Boue.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\ElementsInteractifs\Feu de camp etein sprite.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\ElementsInteractifs\Feu de camp sprite.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\ElementsInteractifs\Fleur.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\ElementsInteractifs\Grande Ronce.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\ElementsInteractifs\Hermine 3 4.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\ElementsInteractifs\Hermine.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\ElementsInteractifs\Nuage.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\ElementsInteractifs\PetitBambou.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\ElementsInteractifs\Ronce cramé.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\ElementsInteractifs\Ronce.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\ElementsInteractifs\Sprite Banbou.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\ElementsInteractifs\Sprite Terrain boue.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\ElementsInteractifs\Sprite Terrain cassure.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\ElementsInteractifs\Sprite Terrain reconstruction.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\ElementsInteractifs\Sprite Terrain solidifie.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\ElementsInteractifs\Terrain friable detruit.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\ElementsInteractifs\Terrain friable.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\Ennemis\Ennemi Feu.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\Ennemis\Ennemi Terre.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\Ennemis\Sprite ennemi feu.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\Ennemis\Sprite ennemi terre.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\Parchemin\Affichage Compteur.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\Parchemin\Air.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\Parchemin\Eau.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\Parchemin\Feu.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\Parchemin\Sprite Eau.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\Parchemin\Sprite feu.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\Parchemin\Sprite terre.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\Parchemin\Sprite Vent.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\Parchemin\Terre.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\Terrain\bout1E.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\Terrain\bout1F.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\Terrain\bout1T.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\Terrain\bout2E.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\Terrain\bout2F.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\Terrain\bout2T.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\Terrain\bout3E.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\Terrain\bout3F.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\Terrain\bout3T.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\Terrain\boutDE.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\Terrain\boutDF.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\Terrain\boutDT.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\Terrain\boutFE.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\Terrain\boutFF.xnb
+c:\users\ringo\documents\visual studio 2012\Projects\GameName3\GameName3\bin\Windows8\Debug\Content\Terrain\boutFT.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\Background\Volcan-3.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\1443.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\50ShowCard.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\ArialFont.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\Background\Foret-1.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\Background\Foret-2.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\Background\Foret-3.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\Background\Foret-4.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\Background\Foret-5.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\Background\Nuage1.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\Background\Nuage2.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\Background\Nuage3.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\Background\Volcan-1.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\Background\Volcan-2.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\Background\Volcan-4.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\Background\Volcan-5.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\ElementsInteractifs\=3.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\ElementsInteractifs\bambou.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\ElementsInteractifs\Boue.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\ElementsInteractifs\Feu de camp etein sprite.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\ElementsInteractifs\Feu de camp sprite.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\ElementsInteractifs\Fleur.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\ElementsInteractifs\Grande Ronce.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\ElementsInteractifs\Hermine 3 4.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\ElementsInteractifs\Hermine.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\ElementsInteractifs\Nuage.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\ElementsInteractifs\PetitBambou.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\ElementsInteractifs\Ronce cramé.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\ElementsInteractifs\Ronce.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\ElementsInteractifs\Sprite Banbou.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\ElementsInteractifs\Sprite Terrain boue.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\ElementsInteractifs\Sprite Terrain cassure.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\ElementsInteractifs\Sprite Terrain reconstruction.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\ElementsInteractifs\Sprite Terrain solidifie.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\ElementsInteractifs\Terrain friable detruit.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\ElementsInteractifs\Terrain friable.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\ElementsMenu\backgroundOption.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\ElementsMenu\Bestiaires.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\ElementsMenu\BestiairesA.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\ElementsMenu\Bouton reussi foret.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\ElementsMenu\Bouton reussi tuto.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\ElementsMenu\Bouton reussi volcan.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\ElementsMenu\Bouton vierge foret A.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\ElementsMenu\Bouton vierge foret.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\ElementsMenu\Bouton vierge Tuto A.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\ElementsMenu\Bouton vierge Tuto.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\ElementsMenu\bouton vierge volcan A.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\ElementsMenu\Bouton vierge volcan.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\ElementsMenu\Carte.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\ElementsMenu\Menu Paysage.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\ElementsMenu\Menu Portrait.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\ElementsMenu\menuBouton.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\ElementsMenu\MenuFin.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\ElementsMenu\MenuFin2.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\ElementsMenu\Niveau precedent.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\ElementsMenu\Niveau precedentA .xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\ElementsMenu\Niveau précédent foret A.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\ElementsMenu\Niveau précédent foret.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\ElementsMenu\Niveau précédent volcan A.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\ElementsMenu\Niveau précédent volcan.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\ElementsMenu\Niveau suivant foret.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\ElementsMenu\Niveau suivant foretA.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\ElementsMenu\Niveau suivant volcan A.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\ElementsMenu\Niveau suivant volcan.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\ElementsMenu\Niveau suivant.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\ElementsMenu\Niveau suivantA.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\ElementsMenu\Noir.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\ElementsMenu\Pause.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\ElementsMenu\PauseA.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\ElementsMenu\Play.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\ElementsMenu\PlayA.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\ElementsMenu\Quitter.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\ElementsMenu\QuitterA.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\ElementsMenu\Reprendre.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\ElementsMenu\ReprendreA.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\ElementsMenu\reset.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\ElementsMenu\ResetA.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\ElementsMenu\Select niveau 0.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\ElementsMenu\Select niveau foret.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\ElementsMenu\Select niveau volcan.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\ElementsMenu\SonOff.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\ElementsMenu\SonOn.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\ElementsMenu\Succès.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\ElementsMenu\SuccèsA.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\Ennemis\Ennemi Feu.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\Ennemis\Ennemi Terre.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\Ennemis\Sprite ennemi feu.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\Ennemis\Sprite ennemi terre.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\foretW.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\Logo.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\Parchemin\Affichage Compteur.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\Parchemin\Air.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\Parchemin\Eau.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\Parchemin\Feu.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\Parchemin\Sprite Eau.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\Parchemin\Sprite feu.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\Parchemin\Sprite terre.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\Parchemin\Sprite Vent.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\Parchemin\Terre.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\ParchmentFont.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\RouePouvoir-Sceptre\Air Active.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\RouePouvoir-Sceptre\Eau Active.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\RouePouvoir-Sceptre\Feu Active.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\RouePouvoir-Sceptre\Roue des pouvoir.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\RouePouvoir-Sceptre\Sceptre(eau).xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\RouePouvoir-Sceptre\Sceptre(feu).xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\RouePouvoir-Sceptre\Sceptre(terre).xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\RouePouvoir-Sceptre\Sceptre(vent).xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\RouePouvoir-Sceptre\Sceptre.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\RouePouvoir-Sceptre\Sprite Eau.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\RouePouvoir-Sceptre\Sprite feu.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\RouePouvoir-Sceptre\Sprite Sceptre (E).xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\RouePouvoir-Sceptre\Sprite Sceptre (F).xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\RouePouvoir-Sceptre\Sprite Sceptre (T).xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\RouePouvoir-Sceptre\Sprite Sceptre (V).xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\RouePouvoir-Sceptre\Sprite terre.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\RouePouvoir-Sceptre\Terre Active.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\RouePouvoir-Sceptre\truc des sorts.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\Septre(eau).xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\Septre(feu).xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\Septre(terre).xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\Septre.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\ShowCard.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\Sprite Magicienne dos.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\Sprite magicienne marche1.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\Sprite magicienne.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\Terrain\bout1E.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\Terrain\bout1F.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\Terrain\bout1T.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\Terrain\bout2E.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\Terrain\bout2F.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\Terrain\bout2T.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\Terrain\bout3E.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\Terrain\bout3F.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\Terrain\bout3T.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\Terrain\boutDE.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\Terrain\boutDF.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\Terrain\boutDT.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\Terrain\boutFE.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\Terrain\boutFF.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\Terrain\boutFT.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\terre qui casse.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\Content\vent son.xnb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\GameName3.exe
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\GameName3.pdb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\resources.pri
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\AppxManifest.xml
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\GameName3.build.appxrecipe
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\MonoGame.Framework.dll
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\SharpDX.Direct2D1.dll
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\SharpDX.Direct3D11.dll
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\SharpDX.dll
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\SharpDX.DXGI.dll
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\SharpDX.XAudio2.dll
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\SharpDX.XInput.dll
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\MonoGame.Framework.xml
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\SharpDX.xml
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\SharpDX.XInput.xml
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\SharpDX.Direct2D1.xml
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\SharpDX.Direct3D11.xml
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\SharpDX.DXGI.xml
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\SharpDX.XAudio2.xml
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\obj\Debug\GameName3.csprojResolveAssemblyReference.cache
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\obj\Debug\GameName3.exe
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\obj\Debug\GameName3.pdb
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\obj\Debug\SharpDX\en-us\SharpDX.Properties.Resources.resw
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\obj\Debug\GameName3.csproj.GenerateResource.Cache
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\obj\Debug\SharpDX.pri
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\obj\Debug\SharpDX\LanguageQualifiers.txt
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\obj\Debug\priconfig.xml.intermediate
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\obj\Debug\layout.resfiles.intermediate
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\obj\Debug\resources.resfiles.intermediate
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\obj\Debug\pri.resfiles.intermediate
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\obj\Debug\priconfig.xml
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\obj\Debug\layout.resfiles
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\obj\Debug\resources.resfiles
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\obj\Debug\pri.resfiles
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\obj\Debug\LanguageQualifiers.txt
+C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\obj\Debug\ProjectArchitectures.txt

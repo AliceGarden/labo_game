@@ -1,0 +1,200 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="Diagramme pour visualiser les différents éléments">
+    <Position X="0.5" Y="0.5" Height="0.75" Width="1.7" />
+  </Comment>
+  <Comment CommentText="Background">
+    <Position X="5.631" Y="3.608" Height="0.4" Width="2.21" />
+  </Comment>
+  <Comment CommentText="Plan du jeu">
+    <Position X="7.042" Y="2.709" Height="0.313" Width="1.656" />
+  </Comment>
+  <Comment CommentText="Eléments Intéractifs">
+    <Position X="10.343" Y="4.562" Height="0.342" Width="1.598" />
+  </Comment>
+  <Comment CommentText="Classe Mouvante">
+    <Position X="7.55" Y="4.733" Height="0.75" Width="1.7" />
+  </Comment>
+  <Comment CommentText="Controle Externe">
+    <Position X="10.357" Y="2.798" Height="0.488" Width="1.977" />
+  </Comment>
+  <Comment CommentText="Dossier&#xD;&#xA;Conception_du_niveau">
+    <Position X="7.408" Y="3.117" Height="0.55" Width="1.65" />
+  </Comment>
+  <Class Name="Magic___Scroll.Background1Fond" Collapsed="true">
+    <Position X="0.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAEAAABgQAAAAAQ=</HashCode>
+      <FileName>Conception_du_niveau\Background1Fond.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Magic___Scroll.Background1Plan" Collapsed="true">
+    <Position X="2.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAEAAABgQAAAAAQ=</HashCode>
+      <FileName>Conception_du_niveau\Background1Plan.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Magic___Scroll.Background2Fond" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAEAAAAAAAAAAAAAEAAAAAQAAAAAQ=</HashCode>
+      <FileName>Conception_du_niveau\Background2Fond.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Magic___Scroll.Background2Plan" Collapsed="true">
+    <Position X="2.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAABAAAAAAAAAAEAAAAAQAAAIAQ=</HashCode>
+      <FileName>Conception_du_niveau\Background2Plan.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Magic___Scroll.Background3Fond" Collapsed="true">
+    <Position X="0.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAACAAAAAAAAAAAAEAAAAAQAAAAAU=</HashCode>
+      <FileName>Conception_du_niveau\Background3Fond.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Magic___Scroll.Conception_du_niveau.Monde" Collapsed="true">
+    <Position X="5.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAACAACAAAAAAAAAAAAAAAAEIAAAA=</HashCode>
+      <FileName>Conception_du_niveau\Monde.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Magic___Scroll.Conception_du_niveau.Niveau" Collapsed="true">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAACAAAAEAAAAAgAAAAAAAAAAAQQA=</HashCode>
+      <FileName>Conception_du_niveau\Niveau.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Magic___Scroll.Elements_Interactif.Bambou" Collapsed="true">
+    <Position X="13" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAACAAAAgAAABAAAAEAAQAAAAAAAAAAgwAAAAQ=</HashCode>
+      <FileName>Elements_Interactif\Bambou.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Magic___Scroll.Elements_Interactif.Ronce" Collapsed="true">
+    <Position X="14.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgQAAAAAAAAAAgAAABAAAAAAIQAAAAAAAQAAAwAAAAQ=</HashCode>
+      <FileName>Elements_Interactif\Ronce.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Magic___Scroll.Elements_Interactif.Sceptre" Collapsed="true">
+    <Position X="11.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAoAAAAAAIAAAQBAAAAAAAAAAAAAAgAQ=</HashCode>
+      <FileName>Sortilege\Sceptre.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Magic___Scroll.Sortilege.Parchemin" Collapsed="true">
+    <Position X="13" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAQQAAAAAABAAgAAAAAAYAIAEAAAIgAAAABgQAAAAAQ=</HashCode>
+      <FileName>Sortilege\Parchemin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Magic___Scroll.Decor" Collapsed="true">
+    <Position X="6.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAQAAABAAgAAAAQAIQAAAAAAAAAAAABgQAAAAAY=</HashCode>
+      <FileName>Decor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Magic___Scroll.Ennemis" Collapsed="true">
+    <Position X="7.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAABAAgAAAAIAIQAAAAAAIAAAQABgQAAAAAQ=</HashCode>
+      <FileName>ennemis.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Magic___Scroll.Perso" Collapsed="true">
+    <Position X="5.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAEAhAAAAAAIQAAAAEAAQAAAAAAAACAYAQ=</HashCode>
+      <FileName>Perso.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Magic___Scroll.Elements_Interactif.ElementInteractifGeneral" Collapsed="true">
+    <Position X="11.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAABEJgAAARAAIUAAAQAIAAQAAABgQwAAhAQ=</HashCode>
+      <FileName>Elements_Interactif\ElementInteractifGeneral.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Magic___Scroll.Conception_du_niveau.AffichageBackground" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAIIAAAgAAAAAAEEABAAAAAAAAAAAAAQAAAAQ=</HashCode>
+      <FileName>Conception_du_niveau\AffichageBackground.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Magic___Scroll.Sortilege.ResetButton" Collapsed="true">
+    <Position X="10.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAgAAAAAAAAAAAAAAAAQAAABgQAAAAAQ=</HashCode>
+      <FileName>Sortilege\ResetButton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Magic___Scroll.Jeu" Collapsed="true">
+    <Position X="9" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AKQAgAAACIEAB1igAAAQAgEkAYAAAQkCAMAIQACAIAQ=</HashCode>
+      <FileName>Jeu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Magic___Scroll.Elements_Interactif.BlocFriable" Collapsed="true">
+    <Position X="16.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAABAAAEAAAQAAAACAAAAAAwAAAAQ=</HashCode>
+      <FileName>Elements_Interactif\BlocFriable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Magic___Scroll.Elements_Interactif.Exemple" Collapsed="true">
+    <Position X="10" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAggAAABAAAAAAAQAAAAAAAAAAAwAAAAQ=</HashCode>
+      <FileName>Elements_Interactif\Exemple.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Magic___Scroll.Elements_Interactif.FeuCamp" Collapsed="true">
+    <Position X="13.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgBAABAAAAAAAQAAAAAAAAAAAwAAAAQ=</HashCode>
+      <FileName>Elements_Interactif\FeuCamp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Magic___Scroll.Elements_Interactif.Hermine" Collapsed="true">
+    <Position X="13.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAABAAAQ=</HashCode>
+      <FileName>Elements_Interactif\Hermine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Magic___Scroll.Game1" Collapsed="true">
+    <Position X="2" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEEAAAAAAAwAAAAAAAAAAAAAAAAgAAAAAAEAAAAQ=</HashCode>
+      <FileName>ScreenManagerFolder\Game1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Magic___Scroll.ScreenManagerFolder.Screen" Collapsed="true">
+    <Position X="3.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAwAAAAAAAAAIAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>ScreenManagerFolder\screen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Magic___Scroll.ScreenManagerFolder.ScreenManager" Collapsed="true">
+    <Position X="4" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQCAAAAAAAAggAAAAAAAAAAAACAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>ScreenManagerFolder\ScreenManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
