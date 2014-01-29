@@ -75,6 +75,7 @@ namespace Magic___Scroll.Sortilege
 
         public void Draw(SpriteBatch spriteBatch)
         {
+            //spriteBatch.End();
             spriteBatch.Begin();
             spriteBatch.Draw(texture, rect, Color.White);
             spriteBatch.End();

@@ -33,7 +33,7 @@ namespace Magic___Scroll
             screenWidth = _screenWidth;
             rect = new Rectangle(x, y, screenWidth, screenHeight);
             col = new Rectangle(x, y, 50, 50);
-            bottomcol = new Rectangle(x, y, screenWidth, 1);
+            bottomcol = new Rectangle(x, y, screenWidth, 5);
             headCol = new Rectangle(x,y-(screenHeight/2),screenWidth,(screenHeight/2));
             coordPositionAbsolu = _coordPositionAbsolu;
         }

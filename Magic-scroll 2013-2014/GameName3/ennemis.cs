@@ -146,9 +146,9 @@ namespace Magic___Scroll
                 animPersoG.Draw(spriteBatch);
             else
             {
-                spriteBatch.Draw(creature, rect, Color.White);
-                spriteBatch.End();
+                spriteBatch.Draw(creature, rect, Color.White);            
             }
+            spriteBatch.End();
         }
 
 

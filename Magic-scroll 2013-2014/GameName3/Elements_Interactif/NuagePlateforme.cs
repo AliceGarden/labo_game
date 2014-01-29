@@ -18,11 +18,11 @@ namespace Magic___Scroll.Elements_Interactif
         Rectangle Droite;
         List<Decor> Liste_decor;
         Perso personnage;
-        bool isDroite;
+        public bool isDroite;
         int _variable = 0;
         int i = 0;
         bool BoolEau = false;
-        bool BoolFeu = false;
+        bool BoolFeu = false;        
 
         public NuagePlateforme (int _screenWitdh, int _screenHeight, bool _isActive, Vector2 coordPositionAbsolu, int _x = 50, int _y = 100)
             : base(coordPositionAbsolu)
@@ -62,7 +62,7 @@ namespace Magic___Scroll.Elements_Interactif
                         {
                             base.x += (1);
                             _variable = 0;
-                            personnage.X += 1;
+                            //personnage.X += 1;
                             
                         }
                         _variable ++;
@@ -73,7 +73,7 @@ namespace Magic___Scroll.Elements_Interactif
                         {
                             base.x -= (1);
                             _variable = 0;
-                            personnage.X -= 1;
+                            //personnage.X -= 1;
                         }
                         _variable++;
                     }
@@ -81,14 +81,14 @@ namespace Magic___Scroll.Elements_Interactif
                     {                        
                             isDroite = false;
                             ElementsIsActived = true;
-                            _variable = -300;
+                            _variable = -300; // attente
                             
                     }
                     if (d.col.Intersects(Gauche) && !isDroite)
                     {
                         isDroite = true;
                         ElementsIsActived = true; // relance dans l'autre sens le nuage
-                        _variable = -300;
+                        _variable = -300; // attente
                     }
                 }
             }

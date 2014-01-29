@@ -16,17 +16,17 @@
     <AppXManifest Include="C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2014-01-15T08:48:42.093</Modified>
+      <Modified>2014-01-28T08:03:36.430</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\GameName3.exe">
       <PackagePath>GameName3.exe</PackagePath>
-      <Modified>2014-01-15T16:08:45.074</Modified>
+      <Modified>2014-01-29T09:05:08.706</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Ringo\Documents\Visual Studio 2012\Projects\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\GameName3.pdb">
       <PackagePath>GameName3.pdb</PackagePath>
-      <Modified>2014-01-15T16:08:45.023</Modified>
+      <Modified>2014-01-29T09:05:08.689</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\MonoGame.Framework.dll">
       <PackagePath>MonoGame.Framework.dll</PackagePath>
