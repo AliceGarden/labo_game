@@ -42,7 +42,7 @@ namespace Magic___Scroll
 
         SoundEffect Ventmusic; 
 
-        int speed = 4;
+        int speed = 5;
         Setting setting;
         Script script;
         int indexActive;
@@ -64,10 +64,11 @@ namespace Magic___Scroll
         int valeurYcamera = 0;
 
         int _variable = 0;
+        int distanceAjout = 0;
 
         bool afficheSelecteurDebut = false;
         bool choixSelecteurFait = false;
-        bool affichInfo;
+        bool affichInfo;        
         float affihInfoTS;
 
         Monde mondeEnCours;
@@ -157,7 +158,7 @@ namespace Magic___Scroll
             affihInfoTS = 0;
 
             script.Initialize();
-            personnage.Y += screenHeightQuad/2;
+            //personnage.Y += screenHeightQuad/2;
             base.Initialize();
         }
         public override void LoadContent(ContentManager content)
@@ -236,7 +237,7 @@ namespace Magic___Scroll
                 t.Update(gameTime);
             foreach (ElementInteractifGeneral t in liste_ElementInteractif) //Mise à jour des elements Interactifs
             {
-                t.Update(gameTime);
+                t.Update(gameTime);                   
                 if (t is BlocFriable && !t.EtatFinale && t.col.Intersects(personnage.bottomCol) /*&& (personnage.col.X + personnage.bottomCol.Width) >= (t.col.X + (t.col.Width / 2))*/)
                 {
                     t.ElementsIsAltered = true;  
@@ -245,6 +246,7 @@ namespace Magic___Scroll
                     t.bottomCollisionIsTrue = true;
                 else t.bottomCollisionIsTrue = false;
             }
+            deplacementNuageFonction();
             int index = 0;
             int indexASuppr = -1;
             foreach (Parchment p in liste_parchment)
@@ -284,6 +286,7 @@ namespace Magic___Scroll
             }
 
             collisionBambou = checkBambou();
+
             collANDpouvoir();
 
             spellLaunch.Update(gameTime, new Point(parchemin.x, parchemin.y));
@@ -311,7 +314,7 @@ namespace Magic___Scroll
                     {
                         //personnage.rect.Y += 1;
                         //personnage.coordAbsolute.Y += 1;
-                        variableDesc = 2;
+                        variableDesc = speed;
                     }
                     else
                     {
@@ -323,7 +326,7 @@ namespace Magic___Scroll
                                 _variable = 0;
                             }
                             //personnage.rect.Y += variableDesc;
-                            personnage.coordAbsolute.Y += variableDesc;
+                            //personnage.coordAbsolute.Y += variableDesc;
                             _variable++;
                         }
                    }
@@ -403,26 +406,7 @@ namespace Magic___Scroll
                             {
                                 if (personnage.bottomCol.Intersects(b.col))
                                     collision = true;
-                                if (b.ElementsIsActived && personnage.bottomCol.Intersects(b.col))
-                                {
-                                    if (b.isDroite)
-                                    {
-                                        background.vaAGauche(speed);
-                                        foreach (Decor c in liste_decor)
-                                            c.x += speed;
-                                        foreach (ElementInteractifGeneral c in liste_ElementInteractif)
-                                            c.x += speed;
-                                        foreach (Parchment p in liste_parchment)
-                                            p.X += speed;
-                                        //foreach (Mort m in liste_mort)
-                                        //    m.x += speed;
-                                        foreach (Ennemis e in liste_ennemis)
-                                        {
-                                            e.x += speed;
-                                            e.initX += speed;
-                                        }
-                                    }
-                                }
+                                
                             }
                         }
                     }
@@ -720,6 +704,7 @@ namespace Magic___Scroll
                     while (i > 0)
                     {
                         background.vaADroite(speed);
+                        personnage.rect.X -= speed;
                         foreach (Decor c in liste_decor)
                             c.x -= speed;
                         foreach (ElementInteractifGeneral c in liste_ElementInteractif)
@@ -961,12 +946,66 @@ namespace Magic___Scroll
             }
         }
 
+        public void deplacementNuageFonction()
+        {
+            foreach (ElementInteractifGeneral b in liste_ElementInteractif)
+            {
+                if (b is NuagePlateforme)
+                {
+                    if (b.ElementsIsActived && personnage.bottomCol.Intersects(b.col))
+                    {
+                        if (!((NuagePlateforme)b).toucheDecor)
+                        {
+                            if (((NuagePlateforme)b).isDroite)
+                            {
+                                distanceAjout = ((NuagePlateforme)b).DX + 5;
+                                foreach (Decor c in liste_decor)
+                                    c.x -= distanceAjout;
+                                foreach (ElementInteractifGeneral c in liste_ElementInteractif)
+                                {
+                                    if (c is NuagePlateforme)
+                                        c.x = c.x;
+                                    c.x -= distanceAjout;
+                                }
+                                foreach (Parchment p in liste_parchment)
+                                    p.X -= distanceAjout;
+                                foreach (Ennemis e in liste_ennemis)
+                                {
+                                    e.x -= distanceAjout;
+                                    e.initX -= distanceAjout;
+                                }
+                            }
+                            else
+                            {
+                                distanceAjout = ((NuagePlateforme)b).DX + 5;
+                                foreach (Decor c in liste_decor)
+                                    c.x += distanceAjout;
+                                foreach (ElementInteractifGeneral c in liste_ElementInteractif)
+                                {
+                                    if (c is NuagePlateforme)
+                                        c.x = c.x;
+                                    c.x += distanceAjout;
+                                }
+                                foreach (Parchment p in liste_parchment)
+                                    p.X += distanceAjout;
+                                foreach (Ennemis e in liste_ennemis)
+                                {
+                                    e.x += distanceAjout;
+                                    e.initX += distanceAjout;
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+
         public void GestionEcranAffichage()  //Gestion du déplacement de l'écran en fonction du joueur
         {
             if (personnage.rect.X >= ((game.GraphicsDevice.Viewport.Width * 1) / 2) - personnage.rect.Width && !caméraActive)       // si on est tout à droite de la fenetre alors on bloque le mouvement
             {
                 //personnage.rect.X = ((game.GraphicsDevice.Viewport.Width * 1) / 2) - personnage.rect.Width;
-                if (personnage.isDroite && !collision)
+                if (personnage.isDroite &&  !collision)
                 {
                     background.vaADroite(speed);
                     foreach (Decor c in liste_decor)
@@ -983,6 +1022,7 @@ namespace Magic___Scroll
                         e.initX -= speed;
                     }
                 }
+                
             }
                 if (caméraActive && cameraRight)
                 {
@@ -1007,7 +1047,7 @@ namespace Magic___Scroll
                 if (personnage.rect.X <= game.GraphicsDevice.Viewport.Width / 2 && !caméraActive) // si on est tout à gauche de la fenetre 
                 {
                     //personnage.rect.X = game.GraphicsDevice.Viewport.Width / 2;
-                    if (personnage.isGauche && !collision)
+                    if (personnage.isGauche  && !collision)
                     {
                         background.vaAGauche(speed);
                         foreach (Decor c in liste_decor)
@@ -1094,7 +1134,8 @@ namespace Magic___Scroll
                     {
                         background.vaEnBas(speed);
                         m.y += speed;
-                        personnage.rect.Y += speed;
+                        if (!collisionBambou)
+                            personnage.rect.Y += speed;
                         foreach (Decor c in liste_decor)
                             c.y += speed;
                         foreach (ElementInteractifGeneral c in liste_ElementInteractif)

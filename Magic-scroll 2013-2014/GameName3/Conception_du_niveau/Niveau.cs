@@ -198,7 +198,7 @@ namespace Magic___Scroll.Conception_du_niveau
                     niveauMonde1.Add("00000000000000000000000000000000_");
                     niveauMonde1.Add("00000000h00000000000000000000000_");
                     niveauMonde1.Add("000000AdE000ABCCDBCE000000000000_");
-                    niveauMonde1.Add("000@0000000000000000000000000000_");
+                    niveauMonde1.Add("0000000000000@00000000000000000_");
                     niveauMonde1.Add("00e0eea00000a000000a088000000000_");
                     niveauMonde1.Add("00ABCCDBCDDCEf0000ACDBE000000000_");
                     niveauMonde1.Add("00000000000000000000000000000000_");

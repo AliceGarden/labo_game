@@ -19,8 +19,10 @@ namespace Magic___Scroll.Elements_Interactif
         List<Decor> Liste_decor;
         Perso personnage;
         public bool isDroite;
+        public bool toucheDecor = true;
         int _variable = 0;
         int i = 0;
+        public int DX = 2;
         bool BoolEau = false;
         bool BoolFeu = false;        
 
@@ -51,45 +53,54 @@ namespace Magic___Scroll.Elements_Interactif
 
         public override void Update(GameTime gameTime)
         {
-            base.Update(gameTime);
+            
             if (ElementsIsActived)
             {
                 foreach (Decor d in Liste_decor)
                 {
-                    if (/*!d.col.Intersects(Droite) &&*/ isDroite) //on le déplace à gauche
-                    {                                                
-                        if(_variable >=20) // temps d'attente pour augmenter x du nuage.
+                    if (isDroite) //on le déplace à gauche
+                    {
+                        if (_variable >= 20) // temps d'attente pour augmenter x du nuage.
                         {
-                            base.x += (1);
+                            DX = 2;
+                            base.x += DX;
                             _variable = 0;
-                            //personnage.X += 1;
-                            
+                            toucheDecor = false;
                         }
+                        else
+                            DX = 0;
                         _variable ++;
-                    }
-                    if (/*!d.col.Intersects(Gauche) &&*/ !isDroite) //on le déplace à droite
-                    {                                                
-                        if (_variable >= 20)
-                        {
-                            base.x -= (1);
-                            _variable = 0;
-                            //personnage.X -= 1;
-                        }
-                        _variable++;
+                        
                     }
                     if(d.col.Intersects(Droite) && isDroite)
-                    {                        
+                    {
+                            DX = -5;
                             isDroite = false;
-                            ElementsIsActived = true;
-                            _variable = -300; // attente
+                            _variable = -2000; // attente
+                            toucheDecor = true;
                             
                     }
-                    if (d.col.Intersects(Gauche) && !isDroite)
+                    if (!isDroite) //on le déplace à droite
                     {
-                        isDroite = true;
-                        ElementsIsActived = true; // relance dans l'autre sens le nuage
-                        _variable = -300; // attente
+                        if (_variable >= 20)
+                        {
+                            DX = 2;
+                            base.x -= DX;
+                            _variable = 0;
+                            toucheDecor = false;
+                        }
+                        else
+                            DX = 0;
+                        _variable++;
+                       
                     }
+                    if (d.col.Intersects(Gauche) && !isDroite)
+                    {                        
+                        isDroite = true;
+                        _variable = -2000; // attente
+                        toucheDecor = true;
+                    }
+
                 }
             }
             if (ElementsIsAltered)
@@ -135,6 +146,8 @@ namespace Magic___Scroll.Elements_Interactif
             Gauche = new Rectangle(x, y, 5, screenHeight);
             Droite = new Rectangle(x + screenWidth - 5, y, 5, screenHeight);
             base.bottomCol = new Rectangle(x, y + screenHeight - 10, screenWidth, 14);
+
+            base.Update(gameTime);
         }
         
 
