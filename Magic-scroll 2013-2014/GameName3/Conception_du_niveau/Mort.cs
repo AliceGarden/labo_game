@@ -16,6 +16,7 @@ namespace Magic___Scroll.Conception_du_niveau
         private int screenHeight;
         private int screenWidth;
         public Rectangle rect { get; set; }
+        public Rectangle downRect { get; set; }
         Texture2D mort;
 
         public Mort(int _screenWitdh, int _screenHeight, int _x, int _y)
@@ -24,16 +25,18 @@ namespace Magic___Scroll.Conception_du_niveau
             y = _y;
             screenWidth = (_screenWitdh*10);
             screenHeight = _screenHeight;
-            rect = new Rectangle(x - (_screenWitdh * 5), y, screenWidth , screenHeight);
+            rect = new Rectangle(x - (screenWidth / 5), y, screenWidth, screenHeight);
+            downRect = new Rectangle(x - (screenWidth / 5), y +(screenHeight) , screenWidth, 1);
         }
         public void LoadContent(ContentManager Content)
         {
-            mort = Content.Load<Texture2D>("Terrain/boutDT");
+            mort = Content.Load<Texture2D>("Terrain/bout2T");
         }
 
         public void Update(GameTime gameTime)
         {
-            rect = new Rectangle(x, y, screenWidth, screenHeight);
+            rect = new Rectangle(x - (screenWidth), y, screenWidth * 2, screenHeight);
+            downRect = new Rectangle(x - (screenWidth / 5), y + (screenHeight), screenWidth, 1);
         }
         public void Draw(SpriteBatch spriteBatch)
         {

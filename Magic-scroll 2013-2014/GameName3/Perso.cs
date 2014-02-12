@@ -81,7 +81,7 @@ namespace Magic___Scroll
         public void Update(GameTime gameTime, GraphicsDevice gd)
         {
             col = new Rectangle(rect.X +30, rect.Y, 40, 130);
-            bottomCol = new Rectangle(rect.X + 40, rect.Y + rect.Height - 1, rect.Width - 40, 3);
+            bottomCol = new Rectangle(rect.X + 40, rect.Y + rect.Height - 1, rect.Width - 50, 3);
             animPersoD.AnimActived = false;
             animPersoG.AnimActived = false;
             animPersoH.AnimActived = false;

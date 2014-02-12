@@ -22,6 +22,8 @@ namespace Magic___Scroll.Conception_du_niveau
         public int minX;
         public int minY;
 
+        int valeurXperson = 0;
+
         public int ValeurSol{get;set;}
 
         public Monde(int _numeroDeMonde)
@@ -127,12 +129,6 @@ namespace Magic___Scroll.Conception_du_niveau
 
                     if (readText[i].GetHashCode() == 'h'.GetHashCode())
                         _liste_ElementInteractif.Add(new Familier(_screenWidth, _screenHeight, new Vector2(colonne, ligne), colonne * _screenWidth, ligne * _screenHeight));
-
-                    if (readText[i].GetHashCode() == '='.GetHashCode())
-                    {
-                        _liste_Mort.Add(new Mort(_screenWidth, _screenHeight, colonne * _screenWidth, ligne * _screenHeight));
-                        ValeurSol = ligne;
-                    }
                     
                     if (readText[i].GetHashCode() == '@'.GetHashCode())
                     {
@@ -140,6 +136,7 @@ namespace Magic___Scroll.Conception_du_niveau
                         _personnage.Y = _screenHeight * ligne;
                         _personnage.coordAbsolute.X = _screenWidth * colonne;
                         _personnage.coordAbsolute.Y = _screenHeight * ligne;
+                        valeurXperson = colonne;
                     }
                     if (readText[i].GetHashCode() != '0'.GetHashCode() && readText[i].GetHashCode() != '='.GetHashCode() && readText[i].GetHashCode() != '_'.GetHashCode() && readText[i].GetHashCode() != '\r'.GetHashCode() && readText[i].GetHashCode() != '\n'.GetHashCode())
                     {
@@ -163,6 +160,8 @@ namespace Magic___Scroll.Conception_du_niveau
                         colonne++;
                     }
                 }
+                _liste_Mort.Add(new Mort(_screenWidth, _screenHeight, valeurXperson * _screenWidth, ligne * _screenHeight));
+                ValeurSol = ligne;
             }
         }
     }

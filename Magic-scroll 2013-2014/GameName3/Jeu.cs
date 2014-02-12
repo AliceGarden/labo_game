@@ -560,16 +560,16 @@ namespace Magic___Scroll
                     cameraLeft = true;
                 }
                 else
-                    cameraLeft = false; 
-                
-                if ((kb.IsKeyDown(Keys.Right) || kb.IsKeyDown(Keys.D)))
+                    cameraLeft = false;
+
+                if (kb.IsKeyDown(Keys.Right) || kb.IsKeyDown(Keys.D))
                 {
                     cameraRight = true;
                 }
                 else
                     cameraRight = false;
 
-                if ((kb.IsKeyDown(Keys.Down) || kb.IsKeyDown(Keys.S)))
+                if ((kb.IsKeyDown(Keys.Down) || kb.IsKeyDown(Keys.S)) && VerificationEcranMort())
                 {
                     cameraDown = true;
                 }
@@ -740,7 +740,8 @@ namespace Magic___Scroll
                     i = valeurYcamera;
                     while (i > 0)
                     {
-                            //m.y -= speed;
+                            foreach (Mort m in liste_mort)
+                                m.y -= speed;
                             background.vaEnHaut(speed);
                             personnage.rect.Y -= speed;
                             foreach (Decor c in liste_decor)
@@ -758,7 +759,8 @@ namespace Magic___Scroll
                     }
                     while (i < 0)
                     {
-                        //m.y -= speed;
+                        foreach (Mort m in liste_mort)
+                            m.y += speed;
                         personnage.rect.Y += speed;
                         background.vaEnBas(speed);
                         foreach (Decor c in liste_decor)
@@ -831,7 +833,8 @@ namespace Magic___Scroll
 
                                     ((NuagePlateforme)b).actionFeu(personnage);
                                 }
-                                b.actionFeu();
+                                else
+                                    b.actionFeu();
                                 mondeEnCours.ListeDesNiveauxDunMonde[setting.currentLevel - 1].nbParcheminF--;
                             }
                         }
@@ -846,7 +849,7 @@ namespace Magic___Scroll
                                     ((NuagePlateforme)b).actionEau(personnage);
                                 }
                                 else
-                                b.actionEau();
+                                    b.actionEau();
                                 mondeEnCours.ListeDesNiveauxDunMonde[setting.currentLevel - 1].nbParcheminE--;
                             }
                         }
@@ -861,8 +864,7 @@ namespace Magic___Scroll
                                     ((NuagePlateforme)b).actionAir(personnage, liste_decor);
                                 }
                                 else
-                                b.actionAir(personnage);
-
+                                    b.actionAir(personnage);
                                 Ventmusic.Play();
                                 mondeEnCours.ListeDesNiveauxDunMonde[setting.currentLevel - 1].nbParcheminA--;
                             }
@@ -1170,6 +1172,18 @@ namespace Magic___Scroll
             }
         }
 
+        public bool VerificationEcranMort()
+        {
+            foreach (Mort m in liste_mort)
+            {
+                if (m.downRect.Y <= game.GraphicsDevice.Viewport.Height)
+                    return false;
+                else
+                    return true;
+
+            }
+            return true;
+        }
         #endregion
     }
 
