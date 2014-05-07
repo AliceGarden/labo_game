@@ -26,6 +26,8 @@ namespace Magic___Scroll.Elements_Interactif
         bool BoolEau = false;
         bool BoolFeu = false;
         DateTime timer;
+        DateTime timer2;
+        DateTime maintenant;
 
         public NuagePlateforme (int _screenWitdh, int _screenHeight, bool _isActive, Vector2 coordPositionAbsolu, int _x = 50, int _y = 100)
             : base(coordPositionAbsolu)
@@ -76,8 +78,9 @@ namespace Magic___Scroll.Elements_Interactif
                             DX = 0;
                             isDroite = false;
                             //timer.AddSeconds(-400);
-                            timer = DateTime.Now;
-                            timer.AddSeconds(60);
+                            maintenant = DateTime.Now;
+                            timer = maintenant;
+                            timer = timer.AddSeconds(2);
                             //_variable = -2000; // attente
                             toucheDecor = true;
                             
@@ -98,8 +101,9 @@ namespace Magic___Scroll.Elements_Interactif
                     {                        
                         isDroite = true;
                         //timer.AddSeconds(-400);
-                        timer = DateTime.Now;
-                        timer.AddSeconds(60);
+                        maintenant = DateTime.Now;
+                        timer = maintenant;
+                        timer = timer.AddSeconds(2);
                         toucheDecor = true;
                     }
 
@@ -111,12 +115,12 @@ namespace Magic___Scroll.Elements_Interactif
                 {
                     if (base.y < (i + screenHeight))
                     {
-                        if (_variable >= 5) // temps d'attente pour augmenter x du nuage.
+                        if (DateTime.Now >= timer2.AddMilliseconds(10)) // temps d'attente pour augmenter x du nuage.
                         {
                             base.y += (1);
-                            _variable = 0;
+                            timer2 = DateTime.Now;
                         }
-                        _variable++;
+                        //_variable++;
                     }
                     else
                     {
@@ -128,12 +132,12 @@ namespace Magic___Scroll.Elements_Interactif
                 {
                     if (base.y > (i - screenHeight))
                     {
-                        if (_variable >= 5) // temps d'attente pour augmenter x du nuage.
+                        if (DateTime.Now >= timer2.AddMilliseconds(10)) // temps d'attente pour augmenter x du nuage.
                         {
                             base.y -= (1);
-                            _variable = 0;
+                            timer2 = DateTime.Now;
                         }
-                        _variable++;
+                        //_variable++;
                     }
                     else
                     {
@@ -167,6 +171,7 @@ namespace Magic___Scroll.Elements_Interactif
             ElementsIsAltered = true;
             BoolFeu= true;
             personnage = p;
+            timer2 = DateTime.Now;
         }
         public override void actionEau(Perso p)
         {
@@ -174,6 +179,7 @@ namespace Magic___Scroll.Elements_Interactif
             ElementsIsAltered = true;
             BoolEau = true;
             personnage = p;
+            timer2 = DateTime.Now;
             
         }
         public override void actionTerre()

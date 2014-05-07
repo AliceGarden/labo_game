@@ -65,7 +65,7 @@ namespace Magic___Scroll.Elements_Interactif
             {
                 if (!base.ElementsIsActived)
                 {
-                    HautPacerelle = new Rectangle(x, y - (screenHeight * 3), screenWidth, screenHeight);
+                    HautPacerelle = new Rectangle(x-10, y - (screenHeight * 3), screenWidth+20, screenHeight+10);
                 }
                 else
                 {

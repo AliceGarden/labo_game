@@ -22,11 +22,11 @@
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\GameName3.exe">
       <PackagePath>GameName3.exe</PackagePath>
-      <Modified>2014-05-07T07:17:24.904</Modified>
+      <Modified>2014-05-07T12:16:53.487</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\GameName3.pdb">
       <PackagePath>GameName3.pdb</PackagePath>
-      <Modified>2014-05-07T07:17:24.887</Modified>
+      <Modified>2014-05-07T12:16:53.470</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\MonoGame.Framework.dll">
       <PackagePath>MonoGame.Framework.dll</PackagePath>

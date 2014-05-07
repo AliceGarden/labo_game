@@ -220,8 +220,16 @@ namespace Magic___Scroll.Screens
             spriteBatch.Draw(dummyTexture, new Rectangle((screenWidth / 2) - (Background.Width / 2) + 260, (screenHeight / 2) - (Background.Height / 3) + 290, 50, 50), Color.White);
             spriteBatch.Draw(dummyTexture, new Rectangle((screenWidth / 2) - (Background.Width / 2) + 260, (screenHeight / 2) - (Background.Height / 3) + 290, 50, 50), Color.FromNonPremultiplied(96,51, 11, 227));       
 
-            spriteBatch.Draw(dummyTexture, new Rectangle((screenWidth / 2) + (Background.Width / 4) - 50, (screenHeight / 2) - (Background.Height / 3) + 290, 100, 50), Color.White);
+            spriteBatch.Draw(dummyTexture, new Rectangle((screenWidth / 2) + (Background.Width / 4) - 50, (screenHeight / 2) - (Background.Height / 3) + 290, 110, 40), Color.White);
             spriteBatch.DrawString(showcardFont, "Sexe : " , new Vector2((screenWidth / 2) + (Background.Width / 4) - 50, (screenHeight / 2) - (Background.Height / 3) + 290), Color.Red);
+            if (setting.Sexe == 1)
+            {
+                spriteBatch.DrawString(showcardFont, "F", new Vector2((screenWidth / 2) + (Background.Width / 4) + 30, (screenHeight / 2) - (Background.Height / 3) + 290), Color.Red);
+            }
+            if (setting.Sexe == 2)
+            {
+                spriteBatch.DrawString(showcardFont, "M", new Vector2((screenWidth / 2) + (Background.Width / 4)+30, (screenHeight / 2) - (Background.Height / 3) + 290), Color.Red);
+            }
 
             if (bouttonCliquer)
                 spriteBatch.Draw(sceptre, new Rectangle(0, 0, 50, 50), Color.White);

@@ -15,7 +15,7 @@ namespace Magic___Scroll.Elements_Interactif
         Animation feuCampExtinction;
         Texture2D mon_feu_eteint;
         Texture2D decors;
-        Rectangle colFlamme;
+        public Rectangle colFlamme;
         bool seDeplace = false;
         bool seDeplaceVersGauche = false;
         int  deplacementEnCours = 0;
@@ -54,13 +54,18 @@ namespace Magic___Scroll.Elements_Interactif
             {
                 base.rect = new Rectangle(x + (screenWidth / 4), y, (screenWidth / 2), screenHeight);                
                 base.col = new Rectangle(x + (screenWidth / 4), y, (screenWidth / 2), screenHeight);
+                ElementsIsBloquant = true;
                 if (!seDeplace)
+                {
                     colFlamme = new Rectangle(x - (screenWidth), y, (screenWidth) * 3, screenHeight);
+                }
             }
             else
             {
                 base.rect = new Rectangle(x + (screenWidth / 4), y, (screenWidth / 2), screenHeight);
                 base.col = new Rectangle(x + (screenWidth / 4), y, (screenWidth / 2), screenHeight);
+                colFlamme = new Rectangle(0,0,0,0);
+                ElementsIsBloquant = false;
             }
             mon_feu_camp.AnimActived = true;
             mon_feu_camp.Update(gameTime, base.rect);
@@ -95,6 +100,7 @@ namespace Magic___Scroll.Elements_Interactif
         public override void Draw(SpriteBatch spriteBatch)
         {
             spriteBatch.Begin();
+            //spriteBatch.Draw(decors, colFlamme, Color.White);
             if (base.ElementsIsActived)
             {
                 mon_feu_camp.Draw(spriteBatch);
@@ -110,10 +116,10 @@ namespace Magic___Scroll.Elements_Interactif
                     spriteBatch.Draw(mon_feu_eteint, rect, new Rectangle((mon_feu_eteint.Width * 13) / 14, 0, mon_feu_eteint.Width / 14, mon_feu_eteint.Height), Color.White);
                 }
             }
-            spriteBatch.Draw(decors, colFlamme, Color.White);
+            
             spriteBatch.End();
         }
-
+        
         public override void actionFeu()
         {
             if (!base.ElementsIsActived)

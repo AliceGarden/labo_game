@@ -456,7 +456,7 @@ namespace Magic___Scroll.Conception_du_niveau
                     niveauMonde1.Add("00000000000000_");
                     niveauMonde1.Add("00000000000000_");
                     niveauMonde1.Add("00000000000000_");
-                    niveauMonde1.Add("00000000c00h00_");
+                    niveauMonde1.Add("0000000bcbbh00_");
                     niveauMonde1.Add("0000000ADCBE00_");
                     niveauMonde1.Add("00000@00000000_");
                     niveauMonde1.Add("000000ea000000_");
@@ -480,12 +480,10 @@ namespace Magic___Scroll.Conception_du_niveau
         {
             List<string> niveauMonde2 = new List<string>();
             switch (numeroDeNiveau) //Ce switch sert à mettre un nouveau niveau dans le monde /!\ vérifier variable niveauMax dans Monde.cs pour tout ajout
-            {
+           
+{
                 case 1:
                     #region Monde 2 Niveau 1
-                    niveauMonde2.Add("00000000000000_");
-                    niveauMonde2.Add("00000000000000_");
-                    niveauMonde2.Add("00000000000000_");
                     niveauMonde2.Add("00000000000000_");
                     niveauMonde2.Add("00000000000000_");
                     niveauMonde2.Add("0000000@000000_");
@@ -505,23 +503,6 @@ namespace Magic___Scroll.Conception_du_niveau
                     break;
                 case 2:
                     #region Monde 2 Niveau 2
-                    niveauMonde2.Add("000000000000000000000000000000000000000000000000000000_");
-                    niveauMonde2.Add("000000000000000000000000000000000000000000000000000000_");
-                    niveauMonde2.Add("0000000000006860000000000000h0000000000000000000000000_");
-                    niveauMonde2.Add("000@0000KLkLMMLNO0000KLLMlLMMNO00000000000000000000000_");
-                    niveauMonde2.Add("000000000000000000000000000000000000000000000000000000_");
-                    niveauMonde2.Add("0000000i000000000j68j000000000000000000000000000000000_");
-                    niveauMonde2.Add("00KLMMLLNO0000000KMLO000000000000000000000000000000000_");
-                    niveauMonde2.Add("000000000000000000000000000000000000000000000000000000_");
-                    niveauMonde2.Add("000000000000000000000000000000000000000000000000000000_");
-                    nbParcheminA = 0;
-                    nbParcheminE = 1;
-                    nbParcheminF = 0;
-                    nbParcheminT = 0;
-                    #endregion
-                    break;
-                case 3:
-                    #region Monde 2 Niveau 3
                     niveauMonde2.Add("000000000000000000000_");
                     niveauMonde2.Add("000000000800000006000_");
                     niveauMonde2.Add("00000000KMkO0KkLNO000_");
@@ -539,19 +520,25 @@ namespace Magic___Scroll.Conception_du_niveau
                     nbParcheminT = 1;
                     #endregion
                     break;
-                case 4:
-                    #region Monde 2 Niveau 4
+                case 3:
+                    #region Monde 2 Niveau 3
+                    niveauMonde2.Add("000000000000000000000_");
+                    niveauMonde2.Add("000000000000000000000_");
+                    niveauMonde2.Add("000000000000000000000_");
                     niveauMonde2.Add("000000000000000000000_");
                     niveauMonde2.Add("000000@00000000000000_");
                     niveauMonde2.Add("000000000000000800000_");
+                    niveauMonde2.Add("000000000000000000000_");
                     niveauMonde2.Add("000000KO0KMLMNkO00000_");
                     niveauMonde2.Add("000000000000000000000_");
                     niveauMonde2.Add("00000000j000000000000_");
                     niveauMonde2.Add("00000KMkO0KO0000h0000_");
                     niveauMonde2.Add("000000000000000KO0000_");
-                    niveauMonde2.Add("000000006i06000000000_");
+                    niveauMonde2.Add("000000006i06800000000_");
                     niveauMonde2.Add("0000000KLMlNO0j000000_");
                     niveauMonde2.Add("00000000000000KO00000_");
+                    niveauMonde2.Add("000000000000000000000_");
+                    niveauMonde2.Add("000000000000000000000_");
                     niveauMonde2.Add("000000000000000000000_");
                     niveauMonde2.Add("000000000000000000000_");
                     nbParcheminA = 1;
@@ -560,25 +547,72 @@ namespace Magic___Scroll.Conception_du_niveau
                     nbParcheminT = 0;
                     #endregion
                     break;
+                case 4:
+                    #region Monde 2 Niveau 4
+                    niveauMonde2.Add("000000000000000000000_");
+                    niveauMonde2.Add("000000000000000000000_");
+                    niveauMonde2.Add("000000000000000000000_");
+                    niveauMonde2.Add("000000000000000000000_");
+                    niveauMonde2.Add("000000000000000000000_");
+                    niveauMonde2.Add("000006000000000000000_");
+                    niveauMonde2.Add("000@0KMkO000000000000_");
+                    niveauMonde2.Add("000000000009000000000_");
+                    niveauMonde2.Add("000000000iKO0000h0000_");
+                    niveauMonde2.Add("000KklO0KO0000KlO0000_");
+                    niveauMonde2.Add("000000000000000000000_");
+                    niveauMonde2.Add("0000008j80086j0000000_");
+                    niveauMonde2.Add("00000KMNO00KLO0000000_");
+                    niveauMonde2.Add("000000000000000000000_");
+                    niveauMonde2.Add("000000000000000000000_");
+                    niveauMonde2.Add("000000000000000000000_");
+                    niveauMonde2.Add("000000000000000000000_");
+                    niveauMonde2.Add("000000000000000000000_");
+                    niveauMonde2.Add("000000000000000000000_");
+                    nbParcheminA = 0;
+                    nbParcheminE = 2;
+                    nbParcheminF = 0;
+                    nbParcheminT = 1;
+                    #endregion
+                    break; 
                 case 5:
                     #region Monde 2 Niveau 5
                     niveauMonde2.Add("000000000000000000000_");
-                    niveauMonde2.Add("000000@00000000000000_");
-                    niveauMonde2.Add("000000000000000800000_");
-                    niveauMonde2.Add("000000KO0KMLMNkO00000_");
+                    niveauMonde2.Add("000000000000000000000_");
+                    niveauMonde2.Add("0000000h0000000000000_");
+                    niveauMonde2.Add("000000KNO000000000000_");
+                    niveauMonde2.Add("000000000000000000000_");
+                    niveauMonde2.Add("00000j000i00000000000_");
+                    niveauMonde2.Add("0000KO000KkO000000000_");
+                    niveauMonde2.Add("000000000000000000000_");
+                    niveauMonde2.Add("000j000000i0000000000_");
+                    niveauMonde2.Add("000KkO0000KLO00000000_");
+                    niveauMonde2.Add("000000000000000000000_");
+                    niveauMonde2.Add("00i000i000000j0000000_");
+                    niveauMonde2.Add("00KlO0KO0KMkNO0000000_");
                     niveauMonde2.Add("000000000000000000000_");
                     niveauMonde2.Add("00000000j000000000000_");
-                    niveauMonde2.Add("00000KMkO0KO0000h0000_");
-                    niveauMonde2.Add("000000000000000KO0000_");
-                    niveauMonde2.Add("000000006i06000000000_");
-                    niveauMonde2.Add("0000000KLMlNO0j000000_");
-                    niveauMonde2.Add("00000000000000KO00000_");
+                    niveauMonde2.Add("0000000KNO00000000000_");
+                    niveauMonde2.Add("000000000000000000000_");
+                    niveauMonde2.Add("000000i000j0000000000_");
+                    niveauMonde2.Add("0000KkO000KlO00000000_");
+                    niveauMonde2.Add("000000000000000000000_");
+                    niveauMonde2.Add("000j000000000i0000000_");
+                    niveauMonde2.Add("000KlNlO0KkkMO0000000_");
+                    niveauMonde2.Add("000000000000000000000_");
+                    niveauMonde2.Add("00000000j0i0000000000_");
+                    niveauMonde2.Add("0000000KNLO0000000000_");
+                    niveauMonde2.Add("000000000000000000000_");
+                    niveauMonde2.Add("000000i00@0i000000000_");
+                    niveauMonde2.Add("00000KO0000KO00000000_");
+                    niveauMonde2.Add("000000000000000000000_");
+                    niveauMonde2.Add("0000i886KO987i0000000_");
+                    niveauMonde2.Add("0000KMNO00KLMO0000000_");
                     niveauMonde2.Add("000000000000000000000_");
                     niveauMonde2.Add("000000000000000000000_");
-                    nbParcheminA = 1;
-                    nbParcheminE = 2;
-                    nbParcheminF = 0;
-                    nbParcheminT = 0;
+                    nbParcheminA = 2;
+                    nbParcheminE = 3;
+                    nbParcheminF = 1;
+                    nbParcheminT = 4;
                     #endregion
                     break;
             }

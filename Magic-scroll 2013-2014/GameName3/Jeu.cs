@@ -951,7 +951,7 @@ namespace Magic___Scroll
                 {
                     foreach(ElementInteractifGeneral b in liste_ElementInteractif)
                     {
-                        if(b.col.Intersects(c.col))
+                        if (b.col.Intersects(((FeuCamp)c).colFlamme))
                         {
                             b.actionFeu();
                         }

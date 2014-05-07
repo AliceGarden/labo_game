@@ -7,6 +7,7 @@ using Magic___Scroll.ScreenManagerFolder;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
+using Windows.Storage;
 
 namespace Magic___Scroll.Screens
 {
@@ -18,6 +19,8 @@ namespace Magic___Scroll.Screens
         Rectangle playPos, succesPos, optionPos;
         MouseState souris;
         Rectangle sourisCol;
+
+        ApplicationDataContainer localSettings = ApplicationData.Current.LocalSettings;
 
         SpriteFont ArialFont;
         SpriteFont showcardFont;
@@ -76,7 +79,10 @@ namespace Magic___Scroll.Screens
             {
                 game.Exit();
             }
-
+            if ((int)localSettings.Containers["Perso"].Values["Sexe"] == 0)
+            {
+                launchOptions = true;
+            }
             if (souris.LeftButton == ButtonState.Pressed)
             {
                 if (souris.X >= playPos.X && souris.X <= playPos.X + playPos.Width && souris.Y >= playPos.Y && souris.Y <= playPos.Y + playPos.Height)
