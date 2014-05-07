@@ -198,8 +198,8 @@ namespace Magic___Scroll.Conception_du_niveau
                     niveauMonde1.Add("00000000000000000000000000000000_");
                     niveauMonde1.Add("00000000h00000000000000000000000_");
                     niveauMonde1.Add("000000AdE000ABCCDBCE000000000000_");
-                    niveauMonde1.Add("0000000000000@00000000000000000_");
-                    niveauMonde1.Add("00e0eea00000a000000a088000000000_");
+                    niveauMonde1.Add("00000000@00000000000000000000000_");
+                    niveauMonde1.Add("00e0eea000i0a000000a088000000000_");
                     niveauMonde1.Add("00ABCCDBCDDCEf0000ACDBE000000000_");
                     niveauMonde1.Add("00000000000000000000000000000000_");
                     niveauMonde1.Add("000000000000ACdDDBE0060a00000000_");
@@ -209,7 +209,7 @@ namespace Magic___Scroll.Conception_du_niveau
                     niveauMonde1.Add("0000000ACBCCBBBDCDCCE00000000000_");
                     niveauMonde1.Add("00000000000000000000000000000000_");
                     niveauMonde1.Add("00000000000000000000000000000000_");
-                    niveauMonde1.Add("000=0000000000000000000000000000_");           
+                    niveauMonde1.Add("00000000000000000000000000000000_");           
                     nbParcheminA = 1;
                     nbParcheminE = 2;
                     nbParcheminF = 1;
@@ -399,8 +399,8 @@ namespace Magic___Scroll.Conception_du_niveau
                     niveauMonde1.Add("000@0000000000000000000000000_");
                     niveauMonde1.Add("0000000a000000000000a00a00000_");
                     niveauMonde1.Add("00ACCBBCCCDDACdDCBBDE00ADE000_");
-                    niveauMonde1.Add("00000000000000000000000000000_");
-                    niveauMonde1.Add("00000000000000000000000067600_");
+                    niveauMonde1.Add("0000000000000000000000000000_");
+                    niveauMonde1.Add("00000000000000000000009867600_");
                     niveauMonde1.Add("00000000000000000000ACCBCBE00_");
                     niveauMonde1.Add("00000000000000000000000000000_");
                     niveauMonde1.Add("00000000000000000000000000000_");
@@ -456,7 +456,7 @@ namespace Magic___Scroll.Conception_du_niveau
                     niveauMonde1.Add("00000000000000_");
                     niveauMonde1.Add("00000000000000_");
                     niveauMonde1.Add("00000000000000_");
-                    niveauMonde1.Add("00000000cbbh00_");
+                    niveauMonde1.Add("00000000c00h00_");
                     niveauMonde1.Add("0000000ADCBE00_");
                     niveauMonde1.Add("00000@00000000_");
                     niveauMonde1.Add("000000ea000000_");
@@ -465,8 +465,8 @@ namespace Magic___Scroll.Conception_du_niveau
                     niveauMonde1.Add("00000000000000_");
                     niveauMonde1.Add("00000000000000_");
                     niveauMonde1.Add("00000=00000000_");
-                    nbParcheminA = 1;
-                    nbParcheminE = 0;
+                    nbParcheminA = 2;
+                    nbParcheminE = 2;
                     nbParcheminF = 1;
                     nbParcheminT = 0;
                     #endregion
@@ -483,52 +483,102 @@ namespace Magic___Scroll.Conception_du_niveau
             {
                 case 1:
                     #region Monde 2 Niveau 1
-                    niveauMonde2.Add("0000000000000000000000000000000000000000_");
-                    niveauMonde2.Add("0000000000000000000000000000000000000000_");
-                    niveauMonde2.Add("0000000000000000000000000000000000000000_");
-                    niveauMonde2.Add("0000000000000000000000000000000000000000_");
-                    niveauMonde2.Add("0000000000000000000000000000000000000000_");
-                    niveauMonde2.Add("0000000000000000000000000000000000000000_");
-                    niveauMonde2.Add("0000000000000000000000000000000000000000_");
-                    niveauMonde2.Add("0000000000000000000000000000000000000000_");
-                    niveauMonde2.Add("00000000000000KLLMLMLNNMLNMLO00000000000_");
-                    niveauMonde2.Add("0000000000000000000000000000000000000000_");
-                    niveauMonde2.Add("000000000000000000000000a00000h000000000_");
-                    niveauMonde2.Add("000000000000KLMO000000KLLO000KO000000000_");
-                    niveauMonde2.Add("00000000000@0000000000000000000000000000_");
-                    niveauMonde2.Add("000000000000000000a000000000000000000000_");
-                    niveauMonde2.Add("0000000000KLMLMNNMLNO0000000000000000000_");
-                    niveauMonde2.Add("0000000000000000000000000000000000000000_");
-                    niveauMonde2.Add("000000a000000000000000000000000000000000_");
-                    niveauMonde2.Add("000KLMNO00000000000000000000000000000000_");
-                    niveauMonde2.Add("0000000000000000000000000000000000000000_");
-                    niveauMonde2.Add("00000000000=0000000000000000000000000000_");
-                    niveauMonde2.Add("0000000000000000000000000000000000000000_");
-                    niveauMonde2.Add("0000000000000000000000000000000000000000_");
+                    niveauMonde2.Add("00000000000000_");
+                    niveauMonde2.Add("00000000000000_");
+                    niveauMonde2.Add("00000000000000_");
+                    niveauMonde2.Add("00000000000000_");
+                    niveauMonde2.Add("00000000000000_");
+                    niveauMonde2.Add("0000000@000000_");
+                    niveauMonde2.Add("00000000000000_");
+                    niveauMonde2.Add("000000KNMlO000_");
+                    niveauMonde2.Add("00000600000000_");
+                    niveauMonde2.Add("00000KlkNMO000_");
+                    niveauMonde2.Add("00h00060000000_");
+                    niveauMonde2.Add("00KlkNO0000000_");
+                    niveauMonde2.Add("00000000000000_");
+                    niveauMonde2.Add("00000000000000_");
+                    nbParcheminA = 0;
+                    nbParcheminE = 0;
+                    nbParcheminF = 0;
+                    nbParcheminT = 0;
                     #endregion
                     break;
                 case 2:
                     #region Monde 2 Niveau 2
                     niveauMonde2.Add("000000000000000000000000000000000000000000000000000000_");
                     niveauMonde2.Add("000000000000000000000000000000000000000000000000000000_");
+                    niveauMonde2.Add("0000000000006860000000000000h0000000000000000000000000_");
+                    niveauMonde2.Add("000@0000KLkLMMLNO0000KLLMlLMMNO00000000000000000000000_");
+                    niveauMonde2.Add("000000000000000000000000000000000000000000000000000000_");
+                    niveauMonde2.Add("0000000i000000000j68j000000000000000000000000000000000_");
+                    niveauMonde2.Add("00KLMMLLNO0000000KMLO000000000000000000000000000000000_");
                     niveauMonde2.Add("000000000000000000000000000000000000000000000000000000_");
                     niveauMonde2.Add("000000000000000000000000000000000000000000000000000000_");
-                    niveauMonde2.Add("000000000000000000000000000000000000000000000000000000_");
-                    niveauMonde2.Add("000000000000000000000000000000000000000000000000000000_");
-                    niveauMonde2.Add("000000000000000000000000000000000000000000000000000000_");
-                    niveauMonde2.Add("0000000000000000000000000000000000000000000000000h0000_");
-                    niveauMonde2.Add("0000000000000000000ABBCBDDCDDCCDBCCDCBCCCDCCCBCCBDCE00_");
-                    niveauMonde2.Add("000@00000000000000000000000000000000000000000000000000_");
-                    niveauMonde2.Add("00000000b0b000b00000a000000000000000000000000000000000_");
-                    niveauMonde2.Add("00ADBDCCDBCBBCDCBBCDCCDE000000000000000000000000000000_");
-                    niveauMonde2.Add("000000000000000000000000000000000000000000000000000000_");
-                    niveauMonde2.Add("000000000000000000000000000000000000000000000000000000_");
-                    niveauMonde2.Add("000000000000000000000000000000000000000000000000000000_");
-                    niveauMonde2.Add("000000000000000000000000000000000000000000000000000000_");
-                    niveauMonde2.Add("000000000000000000000000000000000000000000000000000000_");
-                    niveauMonde2.Add("000000000000000000000000000000000000000000000000000000_");
-                    niveauMonde2.Add("000000000000000000000000000000000000000000000000000000_");
-                    niveauMonde2.Add("000000000000000000000000000000000000000000000000000000_");
+                    nbParcheminA = 0;
+                    nbParcheminE = 1;
+                    nbParcheminF = 0;
+                    nbParcheminT = 0;
+                    #endregion
+                    break;
+                case 3:
+                    #region Monde 2 Niveau 3
+                    niveauMonde2.Add("000000000000000000000_");
+                    niveauMonde2.Add("000000000800000006000_");
+                    niveauMonde2.Add("00000000KMkO0KkLNO000_");
+                    niveauMonde2.Add("000000000000000000000_");
+                    niveauMonde2.Add("0000000i0086j0000h000_");
+                    niveauMonde2.Add("000000@KO0KMO000KO000_");
+                    niveauMonde2.Add("000000000000000000000_");
+                    niveauMonde2.Add("000000000i00008j00000_");
+                    niveauMonde2.Add("000000KMLNO000KO00000_");
+                    niveauMonde2.Add("000000000000000000000_");
+                    niveauMonde2.Add("000000000000000000000_");
+                    nbParcheminA = 1;
+                    nbParcheminE = 0;
+                    nbParcheminF = 1;
+                    nbParcheminT = 1;
+                    #endregion
+                    break;
+                case 4:
+                    #region Monde 2 Niveau 4
+                    niveauMonde2.Add("000000000000000000000_");
+                    niveauMonde2.Add("000000@00000000000000_");
+                    niveauMonde2.Add("000000000000000800000_");
+                    niveauMonde2.Add("000000KO0KMLMNkO00000_");
+                    niveauMonde2.Add("000000000000000000000_");
+                    niveauMonde2.Add("00000000j000000000000_");
+                    niveauMonde2.Add("00000KMkO0KO0000h0000_");
+                    niveauMonde2.Add("000000000000000KO0000_");
+                    niveauMonde2.Add("000000006i06000000000_");
+                    niveauMonde2.Add("0000000KLMlNO0j000000_");
+                    niveauMonde2.Add("00000000000000KO00000_");
+                    niveauMonde2.Add("000000000000000000000_");
+                    niveauMonde2.Add("000000000000000000000_");
+                    nbParcheminA = 1;
+                    nbParcheminE = 2;
+                    nbParcheminF = 0;
+                    nbParcheminT = 0;
+                    #endregion
+                    break;
+                case 5:
+                    #region Monde 2 Niveau 5
+                    niveauMonde2.Add("000000000000000000000_");
+                    niveauMonde2.Add("000000@00000000000000_");
+                    niveauMonde2.Add("000000000000000800000_");
+                    niveauMonde2.Add("000000KO0KMLMNkO00000_");
+                    niveauMonde2.Add("000000000000000000000_");
+                    niveauMonde2.Add("00000000j000000000000_");
+                    niveauMonde2.Add("00000KMkO0KO0000h0000_");
+                    niveauMonde2.Add("000000000000000KO0000_");
+                    niveauMonde2.Add("000000006i06000000000_");
+                    niveauMonde2.Add("0000000KLMlNO0j000000_");
+                    niveauMonde2.Add("00000000000000KO00000_");
+                    niveauMonde2.Add("000000000000000000000_");
+                    niveauMonde2.Add("000000000000000000000_");
+                    nbParcheminA = 1;
+                    nbParcheminE = 2;
+                    nbParcheminF = 0;
+                    nbParcheminT = 0;
                     #endregion
                     break;
             }

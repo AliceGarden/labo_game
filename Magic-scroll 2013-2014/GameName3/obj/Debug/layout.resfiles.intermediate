@@ -24,11 +24,15 @@ Content\ElementsInteractifs\Boue.xnb
 Content\ElementsInteractifs\Feu de camp etein sprite.xnb
 Content\ElementsInteractifs\Feu de camp sprite.xnb
 Content\ElementsInteractifs\Fleur.xnb
+Content\ElementsInteractifs\geyser gaz.png
+Content\ElementsInteractifs\geyser péti.png
 Content\ElementsInteractifs\Grande Ronce.xnb
 Content\ElementsInteractifs\Hermine 3 4.xnb
 Content\ElementsInteractifs\Hermine.xnb
 Content\ElementsInteractifs\Nuage.xnb
 Content\ElementsInteractifs\PetitBambou.xnb
+Content\ElementsInteractifs\pillier éteint.png
+Content\ElementsInteractifs\pillier flame.png
 Content\ElementsInteractifs\Ronce cramé.xnb
 Content\ElementsInteractifs\Ronce.xnb
 Content\ElementsInteractifs\Sprite Banbou.xnb
@@ -36,7 +40,10 @@ Content\ElementsInteractifs\Sprite Terrain boue.xnb
 Content\ElementsInteractifs\Sprite Terrain cassure.xnb
 Content\ElementsInteractifs\Sprite Terrain reconstruction.xnb
 Content\ElementsInteractifs\Sprite Terrain solidifie.xnb
+Content\ElementsInteractifs\Terrain enflammer.png
+Content\ElementsInteractifs\Terrain feu.png
 Content\ElementsInteractifs\Terrain friable detruit.xnb
+Content\ElementsInteractifs\Terrain friable feu.png
 Content\ElementsInteractifs\Terrain friable.xnb
 Content\ElementsMenu\backgroundOption.xnb
 Content\ElementsMenu\Bestiaires.xnb

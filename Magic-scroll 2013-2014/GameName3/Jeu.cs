@@ -238,7 +238,7 @@ namespace Magic___Scroll
             foreach (ElementInteractifGeneral t in liste_ElementInteractif) //Mise à jour des elements Interactifs
             {
                 t.Update(gameTime);                   
-                if (t is BlocFriable && !t.EtatFinale && t.col.Intersects(personnage.bottomCol) /*&& (personnage.col.X + personnage.bottomCol.Width) >= (t.col.X + (t.col.Width / 2))*/)
+                if ((t is BlocFriable || t is BlocCendre ) && !t.ElementsIsActived && !t.EtatFinale && t.col.Intersects(personnage.bottomCol) /*&& (personnage.col.X + personnage.bottomCol.Width) >= (t.col.X + (t.col.Width / 2))*/)
                 {
                     t.ElementsIsAltered = true;  
                 }
@@ -395,9 +395,9 @@ namespace Magic___Scroll
                 {
                     foreach (ElementInteractifGeneral b in liste_ElementInteractif)
                     {
-                        if (b is BlocFriable)
+                        if (b is BlocFriable || b is BlocCendre)
                         {
-                            if (personnage.bottomCol.Intersects(b.bottomCol) && b.EtatFinale)
+                            if (personnage.bottomCol.Intersects(b.bottomCol) && (b.EtatFinale || b.ElementsIsActived))
                                 collision = true;
                         }
                         else
@@ -406,7 +406,15 @@ namespace Magic___Scroll
                             {
                                 if (personnage.bottomCol.Intersects(b.col))
                                     collision = true;
-                                
+
+                            }
+                            else
+                            {
+                                if (b is PillierGaz)
+                                {
+                                    if(personnage.bottomCol.Intersects(((PillierGaz)b).HautPacerelle))
+                                        collision = true;
+                                }
                             }
                         }
                     }
@@ -523,19 +531,6 @@ namespace Magic___Scroll
                             collision = true;
                         }
                     }
-                    //if (!collision) //si il n'y a pas de collision alors on laisse le perso avancé
-                    //{
-                    //    if (personnage.isGauche)
-                    //    {
-                    //        personnage.rect.X -= speed;
-                    //        personnage.coordAbsolute.X -= speed;
-                    //    }
-                    //    if (personnage.isDroite)
-                    //    {
-                    //        personnage.rect.X += speed;
-                    //        personnage.coordAbsolute.X += speed;
-                    //    }
-                    //}
 
                     if (personnage.isGauche) //On remet le perso à son "ancienne" position on fois le test terminés
                         personnage.col.X = personnage.col.X + speed;
@@ -580,7 +575,7 @@ namespace Magic___Scroll
 
             foreach (Mort m in liste_mort)
             {
-                if (personnage.rect.Intersects(m.rect))     // si on est tout en bas de la fenetre alors on bloque le mouvement
+                if (personnage.rect.Intersects(m.rect))
                 {
                     if (setting.SonActive) MusicBg.Stop();
                     screenManagerstock.relaunch(new Jeu(game, base.screenManagerstock));
@@ -589,13 +584,30 @@ namespace Magic___Scroll
             return collision;
         }
 
-        public bool checkBambou() //Permet de monter sur un bambou
+        public bool checkBambou() //Permet de monter sur un bambou ou sur pillier gaz
         {
             bool collisionBambou = false;
 
             foreach (ElementInteractifGeneral b in liste_ElementInteractif)
             {
                 if (b is Bambou && personnage.bottomCol.Intersects(b.col) && b.ElementsIsActived)
+                {
+                    //for (int zdz = liste_decor.Count - 1; zdz >= 0; zdz--)
+                    //if (personnage.bottomCol.Intersects(liste_decor[zdz].bottomcol))
+                    foreach (Decor d in liste_decor)
+                    {
+                        if (personnage.col.Intersects(d.col))
+                        {
+                            collisionBambou = false;
+                        }
+                        else
+                        {
+                            collisionBambou = true;
+                        }
+                        collisionBambou = true;
+                    }
+                }
+                if (b is PillierGaz && personnage.bottomCol.Intersects(b.col) && !b.ElementsIsActived)
                 {
                     //for (int zdz = liste_decor.Count - 1; zdz >= 0; zdz--)
                     //if (personnage.bottomCol.Intersects(liste_decor[zdz].bottomcol))
@@ -960,7 +972,7 @@ namespace Magic___Scroll
                         {
                             if (((NuagePlateforme)b).isDroite)
                             {
-                                distanceAjout = ((NuagePlateforme)b).DX + 5;
+                                distanceAjout = ((NuagePlateforme)b).DX + 3;
                                 foreach (Decor c in liste_decor)
                                     c.x -= distanceAjout;
                                 foreach (ElementInteractifGeneral c in liste_ElementInteractif)
@@ -979,7 +991,7 @@ namespace Magic___Scroll
                             }
                             else
                             {
-                                distanceAjout = ((NuagePlateforme)b).DX + 5;
+                                distanceAjout = ((NuagePlateforme)b).DX;
                                 foreach (Decor c in liste_decor)
                                     c.x += distanceAjout;
                                 foreach (ElementInteractifGeneral c in liste_ElementInteractif)
@@ -1093,24 +1105,31 @@ namespace Magic___Scroll
                 {
 
                     //personnage.rect.Y = (game.GraphicsDevice.Viewport.Height / 2); //- personnage.rect.Height;
+                    
                     if (!bottomCollision())
                     {
-                        m.y -= variableDesc;
-                        background.vaEnHaut(variableDesc);
-                        foreach (Decor c in liste_decor)
-                            c.y -= variableDesc;
-                        foreach (ElementInteractifGeneral c in liste_ElementInteractif)
-                            c.y -= variableDesc;
-                        foreach (Parchment p in liste_parchment)
-                            p.Y -= variableDesc;
-                        foreach (Ennemis e in liste_ennemis)
+                        if (VerificationEcranMort())
                         {
-                            e.y -= variableDesc;
-                            e.initY -= variableDesc;
+                            m.y -= variableDesc;
+                            background.vaEnHaut(variableDesc);
+                            foreach (Decor c in liste_decor)
+                                c.y -= variableDesc;
+                            foreach (ElementInteractifGeneral c in liste_ElementInteractif)
+                                c.y -= variableDesc;
+                            foreach (Parchment p in liste_parchment)
+                                p.Y -= variableDesc;
+                            foreach (Ennemis e in liste_ennemis)
+                            {
+                                e.y -= variableDesc;
+                                e.initY -= variableDesc;
+                            }
                         }
                     }
-
                 }
+
+                if (!bottomCollision() && !VerificationEcranMort())
+                    personnage.rect.Y += variableDesc;
+
                 if (caméraActive && cameraDown)
                 {
                     m.y -= speed;
@@ -1129,7 +1148,7 @@ namespace Magic___Scroll
                     }
                 }
 
-                if (personnage.rect.Y <= game.GraphicsDevice.Viewport.Height / 2 && !caméraActive) //Si en haut
+                if (personnage.rect.Y <= game.GraphicsDevice.Viewport.Height / 2 && !caméraActive && VerificationEcranMort()) //Si en haut
                 {
                     //personnage.rect.Y = game.GraphicsDevice.Viewport.Height / 2;
                     if (!bottomCollision())
@@ -1184,6 +1203,7 @@ namespace Magic___Scroll
             }
             return true;
         }
+
         #endregion
     }
 

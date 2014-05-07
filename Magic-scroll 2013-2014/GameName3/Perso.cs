@@ -117,8 +117,8 @@ namespace Magic___Scroll
                 animPersoG.Draw(spriteBatch);
             else if (vaEnHaut || exDirG == 2)
                 animPersoH.Draw(spriteBatch);
-            spriteBatch.Draw(bottom, col, Color.White);
-            spriteBatch.Draw(bottom, bottomCol, Color.White);
+            //spriteBatch.Draw(bottom, col, Color.White);
+            //spriteBatch.Draw(bottom, bottomCol, Color.White);
             spriteBatch.End();
             //else
             //{

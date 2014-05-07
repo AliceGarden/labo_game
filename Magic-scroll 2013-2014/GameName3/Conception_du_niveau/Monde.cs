@@ -51,7 +51,7 @@ namespace Magic___Scroll.Conception_du_niveau
                     }
                     break;
                 case 2:  //Paramétrage du Monde 2
-                    niveauMax = 2;
+                    niveauMax = 5;
                     for (int i = 1; i <= niveauMax; i++)
                     {
                         ListeDesNiveauxDunMonde.Add(new Niveau(i, 2));
@@ -113,7 +113,7 @@ namespace Magic___Scroll.Conception_du_niveau
                         _liste_ElementInteractif.Add(new Bambou(_screenWidth, _screenHeight, false, false, new Vector2(colonne, ligne), colonne * _screenWidth, ligne * _screenHeight));
                     
                     if (readText[i].GetHashCode() == 'b'.GetHashCode())
-                        _liste_ElementInteractif.Add(new Ronce(_screenWidth, _screenHeight, false, false, new Vector2(colonne, ligne), colonne * _screenWidth, ligne * _screenHeight));
+                        _liste_ElementInteractif.Add(new Ronce(_screenWidth, _screenHeight,false, false, new Vector2(colonne, ligne), colonne * _screenWidth, ligne * _screenHeight));
                     
                     if (readText[i].GetHashCode() == 'c'.GetHashCode())
                         _liste_ElementInteractif.Add(new FeuCamp(_screenWidth, _screenHeight, false, new Vector2(colonne, ligne), colonne * _screenWidth, ligne * _screenHeight));
@@ -125,11 +125,26 @@ namespace Magic___Scroll.Conception_du_niveau
                         _liste_ElementInteractif.Add(new Fleur(_screenWidth, _screenHeight,false ,new Vector2(colonne, ligne), colonne * _screenWidth, ligne * _screenHeight));
 
                     if (readText[i].GetHashCode() == 'f'.GetHashCode())
-                        _liste_ElementInteractif.Add(new NuagePlateforme(_screenWidth, _screenHeight, false, new Vector2(colonne, ligne), colonne * _screenWidth, ligne * _screenHeight));                    
+                        _liste_ElementInteractif.Add(new NuagePlateforme(_screenWidth, _screenHeight, false, new Vector2(colonne, ligne), colonne * _screenWidth, ligne * _screenHeight));
+                    
+                    if (readText[i].GetHashCode() == 'g'.GetHashCode())
+                        _liste_ElementInteractif.Add(new BlocCendre(_screenWidth, _screenHeight, false,false, new Vector2(colonne, ligne), colonne * _screenWidth, ligne * _screenHeight));
 
                     if (readText[i].GetHashCode() == 'h'.GetHashCode())
                         _liste_ElementInteractif.Add(new Familier(_screenWidth, _screenHeight, new Vector2(colonne, ligne), colonne * _screenWidth, ligne * _screenHeight));
-                    
+
+                    if (readText[i].GetHashCode() == 'i'.GetHashCode()) // pilliez Gaz
+                        _liste_ElementInteractif.Add(new PillierGaz(_screenWidth, _screenHeight, false, new Vector2(colonne, ligne), colonne * _screenWidth, ligne * _screenHeight));
+
+                    if (readText[i].GetHashCode() == 'j'.GetHashCode()) // pilliez Feu
+                        _liste_ElementInteractif.Add(new PillierGaz(_screenWidth, _screenHeight, true, new Vector2(colonne, ligne), colonne * _screenWidth, ligne * _screenHeight));
+
+                    if (readText[i].GetHashCode() == 'k'.GetHashCode()) // bloc feu
+                        _liste_ElementInteractif.Add(new BlocCendre(_screenWidth, _screenHeight, true, false, new Vector2(colonne, ligne), colonne * _screenWidth, ligne * _screenHeight));
+
+                    if (readText[i].GetHashCode() == 'l'.GetHashCode()) //bloc cendre
+                        _liste_ElementInteractif.Add(new BlocCendre(_screenWidth, _screenHeight, false, false, new Vector2(colonne, ligne), colonne * _screenWidth, ligne * _screenHeight));
+
                     if (readText[i].GetHashCode() == '@'.GetHashCode())
                     {
                         _personnage.X = _screenWidth * colonne;

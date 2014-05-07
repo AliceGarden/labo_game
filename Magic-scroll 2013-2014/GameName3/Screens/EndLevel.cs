@@ -52,8 +52,8 @@ namespace Magic___Scroll.Screens
             setting.RealisationNivMonde[setting.currentWorld][setting.currentLevel-1] = true;
             if (setting.RealisationNivMonde[setting.currentWorld].Count == setting.currentLevel && !((setting.currentWorld + 1) == setting.RealisationNivMonde.Count))
             {
-                localSettings.Containers["ProgressionNiveau"].Containers[(setting.currentWorld+1).ToString()].Containers["0"].Values["Available"] = true;
-                setting.DisponibiliteNivMonde[setting.currentWorld][setting.currentLevel] = true;
+                localSettings.Containers["ProgressionNiveau"].Containers[(setting.currentWorld +1 ).ToString()].Containers["1"].Values["Available"] = true;
+                setting.DisponibiliteNivMonde[setting.currentWorld+1][0] = true;
             }
             else
             {

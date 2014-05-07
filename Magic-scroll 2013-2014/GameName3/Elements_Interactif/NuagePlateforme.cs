@@ -24,7 +24,8 @@ namespace Magic___Scroll.Elements_Interactif
         int i = 0;
         public int DX = 2;
         bool BoolEau = false;
-        bool BoolFeu = false;        
+        bool BoolFeu = false;
+        DateTime timer;
 
         public NuagePlateforme (int _screenWitdh, int _screenHeight, bool _isActive, Vector2 coordPositionAbsolu, int _x = 50, int _y = 100)
             : base(coordPositionAbsolu)
@@ -60,44 +61,45 @@ namespace Magic___Scroll.Elements_Interactif
                 {
                     if (isDroite) //on le déplace à gauche
                     {
-                        if (_variable >= 20) // temps d'attente pour augmenter x du nuage.
+                        if (DateTime.Now >= timer.AddMilliseconds(10)) // temps d'attente pour augmenter x du nuage.
                         {
-                            DX = 2;
+                            DX = 3;
                             base.x += DX;
-                            _variable = 0;
+                            timer = DateTime.Now;
                             toucheDecor = false;
                         }
                         else
                             DX = 0;
-                        _variable ++;
-                        
                     }
                     if(d.col.Intersects(Droite) && isDroite)
                     {
-                            DX = -5;
+                            DX = 0;
                             isDroite = false;
-                            _variable = -2000; // attente
+                            //timer.AddSeconds(-400);
+                            timer = DateTime.Now;
+                            timer.AddSeconds(60);
+                            //_variable = -2000; // attente
                             toucheDecor = true;
                             
                     }
                     if (!isDroite) //on le déplace à droite
                     {
-                        if (_variable >= 20)
+                        if (DateTime.Now >= timer.AddMilliseconds(10))
                         {
-                            DX = 2;
+                            DX = 3;
                             base.x -= DX;
-                            _variable = 0;
                             toucheDecor = false;
+                            timer = DateTime.Now;
                         }
                         else
-                            DX = 0;
-                        _variable++;
-                       
+                            DX = 0;                       
                     }
                     if (d.col.Intersects(Gauche) && !isDroite)
                     {                        
                         isDroite = true;
-                        _variable = -2000; // attente
+                        //timer.AddSeconds(-400);
+                        timer = DateTime.Now;
+                        timer.AddSeconds(60);
                         toucheDecor = true;
                     }
 
@@ -187,6 +189,7 @@ namespace Magic___Scroll.Elements_Interactif
             personnage = p;
             Liste_decor = liste_decor;
             ElementsIsActived = true;
+            timer = DateTime.Now;
         }
     }
 }

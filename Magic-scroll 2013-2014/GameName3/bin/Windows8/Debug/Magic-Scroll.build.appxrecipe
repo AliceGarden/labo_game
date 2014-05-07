@@ -472,6 +472,27 @@
     <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\vent son.xnb">
       <PackagePath>Content\vent son.xnb</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\ElementsInteractifs\geyser gaz.png">
+      <PackagePath>Content\ElementsInteractifs\geyser gaz.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\ElementsInteractifs\geyser péti.png">
+      <PackagePath>Content\ElementsInteractifs\geyser péti.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\ElementsInteractifs\pillier flame.png">
+      <PackagePath>Content\ElementsInteractifs\pillier flame.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\ElementsInteractifs\pillier éteint.png">
+      <PackagePath>Content\ElementsInteractifs\pillier éteint.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\ElementsInteractifs\Terrain enflammer.png">
+      <PackagePath>Content\ElementsInteractifs\Terrain enflammer.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\ElementsInteractifs\Terrain feu.png">
+      <PackagePath>Content\ElementsInteractifs\Terrain feu.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\ElementsInteractifs\Terrain friable feu.png">
+      <PackagePath>Content\ElementsInteractifs\Terrain friable feu.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\ElementsMenu\BougecamA.png">
       <PackagePath>Content\ElementsMenu\BougecamA.png</PackagePath>
     </AppxPackagedFile>

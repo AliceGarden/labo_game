@@ -139,6 +139,7 @@
     <Compile Include="Conception_du_niveau\Mort.cs" />
     <Compile Include="Conception_du_niveau\Niveau.cs" />
     <Compile Include="Elements_Interactif\Bambou.cs" />
+    <Compile Include="Elements_Interactif\BlocCendre.cs" />
     <Compile Include="Elements_Interactif\BlocFriable.cs" />
     <Compile Include="Elements_Interactif\ElementInteractifGeneral.cs" />
     <Compile Include="Elements_Interactif\Exemple.cs" />
@@ -146,6 +147,7 @@
     <Compile Include="Elements_Interactif\FeuCamp.cs" />
     <Compile Include="Elements_Interactif\Fleur.cs" />
     <Compile Include="Elements_Interactif\NuagePlateforme.cs" />
+    <Compile Include="Elements_Interactif\PillierGaz.cs" />
     <Compile Include="Elements_Interactif\Ronce.cs" />
     <Compile Include="Elements_Interactif\Souriscs.cs" />
     <Compile Include="ennemis.cs" />
@@ -231,6 +233,13 @@
     <Content Include="Content\Background\Volcan-5.xnb">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
+    <Content Include="Content\ElementsInteractifs\geyser gaz.png" />
+    <Content Include="Content\ElementsInteractifs\geyser péti.png" />
+    <Content Include="Content\ElementsInteractifs\pillier flame.png" />
+    <Content Include="Content\ElementsInteractifs\pillier éteint.png" />
+    <Content Include="Content\ElementsInteractifs\Terrain enflammer.png" />
+    <Content Include="Content\ElementsInteractifs\Terrain feu.png" />
+    <Content Include="Content\ElementsInteractifs\Terrain friable feu.png" />
     <Content Include="Content\ElementsMenu\BougecamA.png" />
     <Content Include="Content\ElementsMenu\Bougecam.png" />
     <Content Include="Content\ElementsInteractifs\=3.xnb">

@@ -14,7 +14,8 @@ namespace Magic___Scroll.Elements_Interactif
     {
         public bool ElementsIsActived { get; set; }
         public bool ElementsIsAltered { get; set; }
-        public bool ElementsIsBloquant { get; set; }
+        public bool ElementsIsBloquant { get; set; }        
+        public bool ElementsIsBase { get; set; }
         public bool gravityReady { get; set; }
         public bool EtatFinale { get; set; }
         public bool bottomCollisionIsTrue;

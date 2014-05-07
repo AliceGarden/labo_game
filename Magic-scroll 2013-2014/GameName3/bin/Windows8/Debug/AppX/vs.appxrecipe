@@ -16,17 +16,17 @@
     <AppXManifest Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2014-01-28T08:03:36.430</Modified>
+      <Modified>2014-03-26T15:23:09.774</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\GameName3.exe">
       <PackagePath>GameName3.exe</PackagePath>
-      <Modified>2014-02-12T10:31:47.057</Modified>
+      <Modified>2014-05-07T07:17:24.904</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\GameName3.pdb">
       <PackagePath>GameName3.pdb</PackagePath>
-      <Modified>2014-02-12T10:31:47.041</Modified>
+      <Modified>2014-05-07T07:17:24.887</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\MonoGame.Framework.dll">
       <PackagePath>MonoGame.Framework.dll</PackagePath>
@@ -632,6 +632,34 @@
       <PackagePath>Content\vent son.xnb</PackagePath>
       <Modified>2013-12-18T12:20:58.538</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\ElementsInteractifs\geyser gaz.png">
+      <PackagePath>Content\ElementsInteractifs\geyser gaz.png</PackagePath>
+      <Modified>2014-03-26T10:06:18.658</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\ElementsInteractifs\geyser péti.png">
+      <PackagePath>Content\ElementsInteractifs\geyser péti.png</PackagePath>
+      <Modified>2014-03-26T15:07:59.854</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\ElementsInteractifs\pillier flame.png">
+      <PackagePath>Content\ElementsInteractifs\pillier flame.png</PackagePath>
+      <Modified>2014-03-26T10:06:18.649</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\ElementsInteractifs\pillier éteint.png">
+      <PackagePath>Content\ElementsInteractifs\pillier éteint.png</PackagePath>
+      <Modified>2014-03-26T10:06:18.647</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\ElementsInteractifs\Terrain enflammer.png">
+      <PackagePath>Content\ElementsInteractifs\Terrain enflammer.png</PackagePath>
+      <Modified>2014-03-26T10:06:18.651</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\ElementsInteractifs\Terrain feu.png">
+      <PackagePath>Content\ElementsInteractifs\Terrain feu.png</PackagePath>
+      <Modified>2014-03-26T10:06:18.653</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\ElementsInteractifs\Terrain friable feu.png">
+      <PackagePath>Content\ElementsInteractifs\Terrain friable feu.png</PackagePath>
+      <Modified>2014-03-26T10:06:18.655</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\ElementsMenu\BougecamA.png">
       <PackagePath>Content\ElementsMenu\BougecamA.png</PackagePath>
       <Modified>2014-01-15T08:47:44.989</Modified>
@@ -666,7 +694,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2014-01-29T10:11:37.052</Modified>
+      <Modified>2014-03-26T15:23:09.514</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
