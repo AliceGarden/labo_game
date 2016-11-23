@@ -1,0 +1,157 @@
+Assets\Logo.png
+Assets\SmallLogo.png
+Assets\SplashScreen.png
+Assets\StoreLogo.png
+Content\1443.xnb
+Content\50ShowCard.xnb
+Content\ArialFont.xnb
+Content\Background\Foret-1.xnb
+Content\Background\Foret-2.xnb
+Content\Background\Foret-3.xnb
+Content\Background\Foret-4.xnb
+Content\Background\Foret-5.xnb
+Content\Background\Nuage1.xnb
+Content\Background\Nuage2.xnb
+Content\Background\Nuage3.xnb
+Content\Background\Volcan-1.xnb
+Content\Background\Volcan-2.xnb
+Content\Background\Volcan-3.xnb
+Content\Background\Volcan-4.xnb
+Content\Background\Volcan-5.xnb
+Content\ElementsInteractifs\=3.xnb
+Content\ElementsInteractifs\bambou.xnb
+Content\ElementsInteractifs\Boue.xnb
+Content\ElementsInteractifs\Feu de camp etein sprite.xnb
+Content\ElementsInteractifs\Feu de camp sprite.xnb
+Content\ElementsInteractifs\Fleur.xnb
+Content\ElementsInteractifs\geyser gaz.png
+Content\ElementsInteractifs\geyser péti.png
+Content\ElementsInteractifs\Grande Ronce.xnb
+Content\ElementsInteractifs\Hermine 3 4.xnb
+Content\ElementsInteractifs\Hermine.xnb
+Content\ElementsInteractifs\Nuage.xnb
+Content\ElementsInteractifs\PetitBambou.xnb
+Content\ElementsInteractifs\pillier éteint.png
+Content\ElementsInteractifs\pillier flame.png
+Content\ElementsInteractifs\Ronce cramé.xnb
+Content\ElementsInteractifs\Ronce.xnb
+Content\ElementsInteractifs\Sprite Banbou.xnb
+Content\ElementsInteractifs\Sprite Terrain boue.xnb
+Content\ElementsInteractifs\Sprite Terrain cassure.xnb
+Content\ElementsInteractifs\Sprite Terrain reconstruction.xnb
+Content\ElementsInteractifs\Sprite Terrain solidifie.xnb
+Content\ElementsInteractifs\Terrain enflammer.png
+Content\ElementsInteractifs\Terrain feu.png
+Content\ElementsInteractifs\Terrain friable detruit.xnb
+Content\ElementsInteractifs\Terrain friable feu.png
+Content\ElementsInteractifs\Terrain friable.xnb
+Content\ElementsMenu\backgroundOption.xnb
+Content\ElementsMenu\Bestiaires.xnb
+Content\ElementsMenu\BestiairesA.xnb
+Content\ElementsMenu\Bougecam.png
+Content\ElementsMenu\BougecamA.png
+Content\ElementsMenu\Bouton reussi foret.xnb
+Content\ElementsMenu\Bouton reussi tuto.xnb
+Content\ElementsMenu\Bouton reussi volcan.xnb
+Content\ElementsMenu\Bouton vierge foret A.xnb
+Content\ElementsMenu\Bouton vierge foret.xnb
+Content\ElementsMenu\Bouton vierge Tuto A.xnb
+Content\ElementsMenu\Bouton vierge Tuto.xnb
+Content\ElementsMenu\bouton vierge volcan A.xnb
+Content\ElementsMenu\Bouton vierge volcan.xnb
+Content\ElementsMenu\Carte.xnb
+Content\ElementsMenu\Menu Paysage.xnb
+Content\ElementsMenu\Menu Portrait.xnb
+Content\ElementsMenu\menuBouton.xnb
+Content\ElementsMenu\MenuFin.xnb
+Content\ElementsMenu\MenuFin2.xnb
+Content\ElementsMenu\Niveau précédent foret A.xnb
+Content\ElementsMenu\Niveau précédent foret.xnb
+Content\ElementsMenu\Niveau précédent volcan A.xnb
+Content\ElementsMenu\Niveau précédent volcan.xnb
+Content\ElementsMenu\Niveau precedent.xnb
+Content\ElementsMenu\Niveau precedentA .xnb
+Content\ElementsMenu\Niveau suivant foret.xnb
+Content\ElementsMenu\Niveau suivant foretA.xnb
+Content\ElementsMenu\Niveau suivant volcan A.xnb
+Content\ElementsMenu\Niveau suivant volcan.xnb
+Content\ElementsMenu\Niveau suivant.xnb
+Content\ElementsMenu\Niveau suivantA.xnb
+Content\ElementsMenu\Noir.xnb
+Content\ElementsMenu\Pause.xnb
+Content\ElementsMenu\PauseA.xnb
+Content\ElementsMenu\Play.xnb
+Content\ElementsMenu\PlayA.xnb
+Content\ElementsMenu\Quitter.xnb
+Content\ElementsMenu\QuitterA.xnb
+Content\ElementsMenu\Reprendre.xnb
+Content\ElementsMenu\ReprendreA.xnb
+Content\ElementsMenu\reset.xnb
+Content\ElementsMenu\ResetA.xnb
+Content\ElementsMenu\Select niveau 0.xnb
+Content\ElementsMenu\Select niveau foret.xnb
+Content\ElementsMenu\Select niveau volcan.xnb
+Content\ElementsMenu\SonOff.xnb
+Content\ElementsMenu\SonOn.xnb
+Content\ElementsMenu\Succès.xnb
+Content\ElementsMenu\SuccèsA.xnb
+Content\Ennemis\Ennemi Feu.xnb
+Content\Ennemis\Ennemi Terre.xnb
+Content\Ennemis\Sprite ennemi feu.xnb
+Content\Ennemis\Sprite ennemi terre.xnb
+Content\foretW.xnb
+Content\Logo.xnb
+Content\Parchemin\Affichage Compteur.xnb
+Content\Parchemin\Air.xnb
+Content\Parchemin\Eau.xnb
+Content\Parchemin\Feu.xnb
+Content\Parchemin\Sprite Eau.xnb
+Content\Parchemin\Sprite feu.xnb
+Content\Parchemin\Sprite terre.xnb
+Content\Parchemin\Sprite Vent.xnb
+Content\Parchemin\Terre.xnb
+Content\ParchmentFont.xnb
+Content\RouePouvoir-Sceptre\Air Active.xnb
+Content\RouePouvoir-Sceptre\Eau Active.xnb
+Content\RouePouvoir-Sceptre\Feu Active.xnb
+Content\RouePouvoir-Sceptre\Roue des pouvoir.xnb
+Content\RouePouvoir-Sceptre\Sceptre(eau).xnb
+Content\RouePouvoir-Sceptre\Sceptre(feu).xnb
+Content\RouePouvoir-Sceptre\Sceptre(terre).xnb
+Content\RouePouvoir-Sceptre\Sceptre(vent).xnb
+Content\RouePouvoir-Sceptre\Sceptre.xnb
+Content\RouePouvoir-Sceptre\Sprite Eau.xnb
+Content\RouePouvoir-Sceptre\Sprite feu.xnb
+Content\RouePouvoir-Sceptre\Sprite Sceptre (E).xnb
+Content\RouePouvoir-Sceptre\Sprite Sceptre (F).xnb
+Content\RouePouvoir-Sceptre\Sprite Sceptre (T).xnb
+Content\RouePouvoir-Sceptre\Sprite Sceptre (V).xnb
+Content\RouePouvoir-Sceptre\Sprite terre.xnb
+Content\RouePouvoir-Sceptre\Terre Active.xnb
+Content\RouePouvoir-Sceptre\truc des sorts.xnb
+Content\Septre(eau).xnb
+Content\Septre(feu).xnb
+Content\Septre(terre).xnb
+Content\Septre.xnb
+Content\ShowCard.xnb
+Content\Sprite Magicienne dos.xnb
+Content\Sprite magicienne marche1.xnb
+Content\Sprite magicienne.xnb
+Content\Terrain\bout1E.xnb
+Content\Terrain\bout1F.xnb
+Content\Terrain\bout1T.xnb
+Content\Terrain\bout2E.xnb
+Content\Terrain\bout2F.xnb
+Content\Terrain\bout2T.xnb
+Content\Terrain\bout3E.xnb
+Content\Terrain\bout3F.xnb
+Content\Terrain\bout3T.xnb
+Content\Terrain\boutDE.xnb
+Content\Terrain\boutDF.xnb
+Content\Terrain\boutDT.xnb
+Content\Terrain\boutFE.xnb
+Content\Terrain\boutFF.xnb
+Content\Terrain\boutFT.xnb
+Content\terre qui casse.xnb
+Content\vent son.xnb
+Magic - Scroll.csproj.user

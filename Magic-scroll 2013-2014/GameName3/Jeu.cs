@@ -972,7 +972,7 @@ namespace Magic___Scroll
                         {
                             if (((NuagePlateforme)b).isDroite)
                             {
-                                distanceAjout = ((NuagePlateforme)b).DX + 3;
+                                distanceAjout = ((NuagePlateforme)b).DX + 2;
                                 foreach (Decor c in liste_decor)
                                     c.x -= distanceAjout;
                                 foreach (ElementInteractifGeneral c in liste_ElementInteractif)
@@ -991,7 +991,7 @@ namespace Magic___Scroll
                             }
                             else
                             {
-                                distanceAjout = ((NuagePlateforme)b).DX;
+                                distanceAjout = ((NuagePlateforme)b).DX + 2;
                                 foreach (Decor c in liste_decor)
                                     c.x += distanceAjout;
                                 foreach (ElementInteractifGeneral c in liste_ElementInteractif)

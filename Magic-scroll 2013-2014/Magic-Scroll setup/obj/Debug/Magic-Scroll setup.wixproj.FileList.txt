@@ -1,0 +1,6 @@
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\Magic-Scroll setup\bin\Debug\Magic-Scroll setup.msi
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\Magic-Scroll setup\bin\Debug\Magic-Scroll setup.wixpdb
+obj\Debug\Product.wixobj
+obj\Debug\Magic-Scroll setup.wixproj.BindContentsFileListnull.txt
+obj\Debug\Magic-Scroll setup.wixproj.BindOutputsFileListnull.txt
+obj\Debug\Magic-Scroll setup.wixproj.BindBuiltOutputsFileListnull.txt

@@ -1,0 +1,177 @@
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\Background\Volcan-3.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\1443.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\50ShowCard.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\ArialFont.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\Background\Foret-1.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\Background\Foret-2.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\Background\Foret-3.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\Background\Foret-4.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\Background\Foret-5.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\Background\Nuage1.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\Background\Nuage2.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\Background\Nuage3.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\Background\Volcan-1.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\Background\Volcan-2.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\Background\Volcan-4.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\Background\Volcan-5.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\ElementsInteractifs\=3.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\ElementsInteractifs\bambou.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\ElementsInteractifs\Boue.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\ElementsInteractifs\Feu de camp etein sprite.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\ElementsInteractifs\Feu de camp sprite.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\ElementsInteractifs\Fleur.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\ElementsInteractifs\Grande Ronce.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\ElementsInteractifs\Hermine 3 4.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\ElementsInteractifs\Hermine.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\ElementsInteractifs\Nuage.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\ElementsInteractifs\PetitBambou.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\ElementsInteractifs\Ronce cramé.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\ElementsInteractifs\Ronce.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\ElementsInteractifs\Sprite Banbou.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\ElementsInteractifs\Sprite Terrain boue.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\ElementsInteractifs\Sprite Terrain cassure.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\ElementsInteractifs\Sprite Terrain reconstruction.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\ElementsInteractifs\Sprite Terrain solidifie.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\ElementsInteractifs\Terrain friable detruit.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\ElementsInteractifs\Terrain friable.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\ElementsMenu\backgroundOption.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\ElementsMenu\Bestiaires.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\ElementsMenu\BestiairesA.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\ElementsMenu\Bouton reussi foret.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\ElementsMenu\Bouton reussi tuto.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\ElementsMenu\Bouton reussi volcan.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\ElementsMenu\Bouton vierge foret A.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\ElementsMenu\Bouton vierge foret.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\ElementsMenu\Bouton vierge Tuto A.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\ElementsMenu\Bouton vierge Tuto.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\ElementsMenu\bouton vierge volcan A.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\ElementsMenu\Bouton vierge volcan.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\ElementsMenu\Carte.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\ElementsMenu\Menu Paysage.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\ElementsMenu\Menu Portrait.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\ElementsMenu\menuBouton.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\ElementsMenu\MenuFin.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\ElementsMenu\MenuFin2.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\ElementsMenu\Niveau precedent.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\ElementsMenu\Niveau precedentA .xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\ElementsMenu\Niveau précédent foret A.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\ElementsMenu\Niveau précédent foret.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\ElementsMenu\Niveau précédent volcan A.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\ElementsMenu\Niveau précédent volcan.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\ElementsMenu\Niveau suivant foret.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\ElementsMenu\Niveau suivant foretA.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\ElementsMenu\Niveau suivant volcan A.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\ElementsMenu\Niveau suivant volcan.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\ElementsMenu\Niveau suivant.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\ElementsMenu\Niveau suivantA.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\ElementsMenu\Noir.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\ElementsMenu\Pause.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\ElementsMenu\PauseA.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\ElementsMenu\Play.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\ElementsMenu\PlayA.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\ElementsMenu\Quitter.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\ElementsMenu\QuitterA.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\ElementsMenu\Reprendre.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\ElementsMenu\ReprendreA.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\ElementsMenu\reset.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\ElementsMenu\ResetA.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\ElementsMenu\Select niveau 0.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\ElementsMenu\Select niveau foret.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\ElementsMenu\Select niveau volcan.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\ElementsMenu\SonOff.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\ElementsMenu\SonOn.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\ElementsMenu\Succès.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\ElementsMenu\SuccèsA.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\Ennemis\Ennemi Feu.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\Ennemis\Ennemi Terre.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\Ennemis\Sprite ennemi feu.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\Ennemis\Sprite ennemi terre.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\foretW.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\Logo.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\Parchemin\Affichage Compteur.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\Parchemin\Air.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\Parchemin\Eau.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\Parchemin\Feu.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\Parchemin\Sprite Eau.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\Parchemin\Sprite feu.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\Parchemin\Sprite terre.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\Parchemin\Sprite Vent.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\Parchemin\Terre.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\ParchmentFont.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\RouePouvoir-Sceptre\Air Active.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\RouePouvoir-Sceptre\Eau Active.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\RouePouvoir-Sceptre\Feu Active.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\RouePouvoir-Sceptre\Roue des pouvoir.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\RouePouvoir-Sceptre\Sceptre(eau).xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\RouePouvoir-Sceptre\Sceptre(feu).xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\RouePouvoir-Sceptre\Sceptre(terre).xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\RouePouvoir-Sceptre\Sceptre(vent).xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\RouePouvoir-Sceptre\Sceptre.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\RouePouvoir-Sceptre\Sprite Eau.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\RouePouvoir-Sceptre\Sprite feu.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\RouePouvoir-Sceptre\Sprite Sceptre (E).xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\RouePouvoir-Sceptre\Sprite Sceptre (F).xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\RouePouvoir-Sceptre\Sprite Sceptre (T).xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\RouePouvoir-Sceptre\Sprite Sceptre (V).xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\RouePouvoir-Sceptre\Sprite terre.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\RouePouvoir-Sceptre\Terre Active.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\RouePouvoir-Sceptre\truc des sorts.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\Septre(eau).xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\Septre(feu).xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\Septre(terre).xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\Septre.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\ShowCard.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\Sprite Magicienne dos.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\Sprite magicienne marche1.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\Sprite magicienne.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\Terrain\bout1E.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\Terrain\bout1F.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\Terrain\bout1T.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\Terrain\bout2E.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\Terrain\bout2F.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\Terrain\bout2T.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\Terrain\bout3E.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\Terrain\bout3F.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\Terrain\bout3T.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\Terrain\boutDE.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\Terrain\boutDF.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\Terrain\boutDT.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\Terrain\boutFE.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\Terrain\boutFF.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\Terrain\boutFT.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\terre qui casse.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Content\vent son.xnb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\GameName3.exe
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\GameName3.pdb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\resources.pri
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\AppxManifest.xml
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\Magic-Scroll.build.appxrecipe
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\MonoGame.Framework.dll
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\SharpDX.Direct2D1.dll
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\SharpDX.Direct3D11.dll
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\SharpDX.dll
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\SharpDX.DXGI.dll
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\SharpDX.MediaFoundation.dll
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\SharpDX.XAudio2.dll
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\SharpDX.XInput.dll
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\MonoGame.Framework.xml
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\SharpDX.xml
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\SharpDX.XInput.xml
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\SharpDX.Direct2D1.xml
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\SharpDX.Direct3D11.xml
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\SharpDX.DXGI.xml
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\SharpDX.MediaFoundation.xml
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\SharpDX.XAudio2.xml
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\obj\x86\Release\Magic-Scroll.csprojResolveAssemblyReference.cache
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\obj\x86\Release\GameName3.exe
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\obj\x86\Release\GameName3.pdb
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\obj\x86\Release\SharpDX\en-us\SharpDX.Properties.Resources.resw
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\obj\x86\Release\Magic-Scroll.csproj.GenerateResource.Cache
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\obj\x86\Release\SharpDX.pri
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\obj\x86\Release\SharpDX\LanguageQualifiers.txt
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\obj\x86\Release\priconfig.xml
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\obj\x86\Release\layout.resfiles
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\obj\x86\Release\resources.resfiles
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\obj\x86\Release\pri.resfiles
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\obj\x86\Release\LanguageQualifiers.txt
+C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\obj\x86\Release\ProjectArchitectures.txt

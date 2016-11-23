@@ -72,8 +72,8 @@ namespace Magic___Scroll.Elements_Interactif
                 {
                     if ((-deplacementEnCours) < screenWidth)
                     {
-                        deplacementEnCours -= 2;
-                        x -= 2;
+                        deplacementEnCours -= 100;
+                        x -= 100;
                     }
                     else seDeplace = false;
                 }
@@ -82,8 +82,8 @@ namespace Magic___Scroll.Elements_Interactif
                 {
                     if (deplacementEnCours < screenWidth)
                     {
-                        deplacementEnCours += 2;
-                        x += 2;
+                        deplacementEnCours += 100;
+                        x += 100;
                     }
                     else seDeplace = false;
                 }

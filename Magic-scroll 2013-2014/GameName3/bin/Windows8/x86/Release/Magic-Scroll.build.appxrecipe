@@ -1,0 +1,527 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ALICEGARDEN_PC</Machine>
+    <WindowsUser>Ringo</WindowsUser>
+    <SolutionConfiguration>Release|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\GameName3.exe">
+      <PackagePath>GameName3.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\GameName3.pdb">
+      <PackagePath>GameName3.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\MonoGame.Framework.dll">
+      <PackagePath>MonoGame.Framework.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\SharpDX.Direct2D1.dll">
+      <PackagePath>SharpDX.Direct2D1.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\SharpDX.Direct3D11.dll">
+      <PackagePath>SharpDX.Direct3D11.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\SharpDX.dll">
+      <PackagePath>SharpDX.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\SharpDX.DXGI.dll">
+      <PackagePath>SharpDX.DXGI.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\SharpDX.MediaFoundation.dll">
+      <PackagePath>SharpDX.MediaFoundation.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\SharpDX.XAudio2.dll">
+      <PackagePath>SharpDX.XAudio2.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\SharpDX.XInput.dll">
+      <PackagePath>SharpDX.XInput.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\1443.xnb">
+      <PackagePath>Content\1443.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\50ShowCard.xnb">
+      <PackagePath>Content\50ShowCard.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\ArialFont.xnb">
+      <PackagePath>Content\ArialFont.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\Background\Foret-1.xnb">
+      <PackagePath>Content\Background\Foret-1.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\Background\Foret-2.xnb">
+      <PackagePath>Content\Background\Foret-2.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\Background\Foret-3.xnb">
+      <PackagePath>Content\Background\Foret-3.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\Background\Foret-4.xnb">
+      <PackagePath>Content\Background\Foret-4.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\Background\Foret-5.xnb">
+      <PackagePath>Content\Background\Foret-5.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\Background\Nuage1.xnb">
+      <PackagePath>Content\Background\Nuage1.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\Background\Nuage2.xnb">
+      <PackagePath>Content\Background\Nuage2.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\Background\Nuage3.xnb">
+      <PackagePath>Content\Background\Nuage3.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\Background\Volcan-1.xnb">
+      <PackagePath>Content\Background\Volcan-1.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\Background\Volcan-2.xnb">
+      <PackagePath>Content\Background\Volcan-2.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\Background\Volcan-3.xnb">
+      <PackagePath>Content\Background\Volcan-3.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\Background\Volcan-4.xnb">
+      <PackagePath>Content\Background\Volcan-4.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\Background\Volcan-5.xnb">
+      <PackagePath>Content\Background\Volcan-5.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\ElementsInteractifs\=3.xnb">
+      <PackagePath>Content\ElementsInteractifs\=3.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\ElementsInteractifs\bambou.xnb">
+      <PackagePath>Content\ElementsInteractifs\bambou.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\ElementsInteractifs\Boue.xnb">
+      <PackagePath>Content\ElementsInteractifs\Boue.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\ElementsInteractifs\Feu de camp etein sprite.xnb">
+      <PackagePath>Content\ElementsInteractifs\Feu de camp etein sprite.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\ElementsInteractifs\Feu de camp sprite.xnb">
+      <PackagePath>Content\ElementsInteractifs\Feu de camp sprite.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\ElementsInteractifs\Fleur.xnb">
+      <PackagePath>Content\ElementsInteractifs\Fleur.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\ElementsInteractifs\Grande Ronce.xnb">
+      <PackagePath>Content\ElementsInteractifs\Grande Ronce.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\ElementsInteractifs\Hermine 3 4.xnb">
+      <PackagePath>Content\ElementsInteractifs\Hermine 3 4.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\ElementsInteractifs\Hermine.xnb">
+      <PackagePath>Content\ElementsInteractifs\Hermine.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\ElementsInteractifs\Nuage.xnb">
+      <PackagePath>Content\ElementsInteractifs\Nuage.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\ElementsInteractifs\PetitBambou.xnb">
+      <PackagePath>Content\ElementsInteractifs\PetitBambou.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\ElementsInteractifs\Ronce cramé.xnb">
+      <PackagePath>Content\ElementsInteractifs\Ronce cramé.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\ElementsInteractifs\Ronce.xnb">
+      <PackagePath>Content\ElementsInteractifs\Ronce.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\ElementsInteractifs\Sprite Banbou.xnb">
+      <PackagePath>Content\ElementsInteractifs\Sprite Banbou.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\ElementsInteractifs\Sprite Terrain boue.xnb">
+      <PackagePath>Content\ElementsInteractifs\Sprite Terrain boue.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\ElementsInteractifs\Sprite Terrain cassure.xnb">
+      <PackagePath>Content\ElementsInteractifs\Sprite Terrain cassure.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\ElementsInteractifs\Sprite Terrain reconstruction.xnb">
+      <PackagePath>Content\ElementsInteractifs\Sprite Terrain reconstruction.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\ElementsInteractifs\Sprite Terrain solidifie.xnb">
+      <PackagePath>Content\ElementsInteractifs\Sprite Terrain solidifie.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\ElementsInteractifs\Terrain friable detruit.xnb">
+      <PackagePath>Content\ElementsInteractifs\Terrain friable detruit.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\ElementsInteractifs\Terrain friable.xnb">
+      <PackagePath>Content\ElementsInteractifs\Terrain friable.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\ElementsMenu\backgroundOption.xnb">
+      <PackagePath>Content\ElementsMenu\backgroundOption.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\ElementsMenu\Bestiaires.xnb">
+      <PackagePath>Content\ElementsMenu\Bestiaires.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\ElementsMenu\BestiairesA.xnb">
+      <PackagePath>Content\ElementsMenu\BestiairesA.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\ElementsMenu\Bouton reussi foret.xnb">
+      <PackagePath>Content\ElementsMenu\Bouton reussi foret.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\ElementsMenu\Bouton reussi tuto.xnb">
+      <PackagePath>Content\ElementsMenu\Bouton reussi tuto.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\ElementsMenu\Bouton reussi volcan.xnb">
+      <PackagePath>Content\ElementsMenu\Bouton reussi volcan.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\ElementsMenu\Bouton vierge foret A.xnb">
+      <PackagePath>Content\ElementsMenu\Bouton vierge foret A.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\ElementsMenu\Bouton vierge foret.xnb">
+      <PackagePath>Content\ElementsMenu\Bouton vierge foret.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\ElementsMenu\Bouton vierge Tuto A.xnb">
+      <PackagePath>Content\ElementsMenu\Bouton vierge Tuto A.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\ElementsMenu\Bouton vierge Tuto.xnb">
+      <PackagePath>Content\ElementsMenu\Bouton vierge Tuto.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\ElementsMenu\bouton vierge volcan A.xnb">
+      <PackagePath>Content\ElementsMenu\bouton vierge volcan A.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\ElementsMenu\Bouton vierge volcan.xnb">
+      <PackagePath>Content\ElementsMenu\Bouton vierge volcan.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\ElementsMenu\Carte.xnb">
+      <PackagePath>Content\ElementsMenu\Carte.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\ElementsMenu\Menu Paysage.xnb">
+      <PackagePath>Content\ElementsMenu\Menu Paysage.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\ElementsMenu\Menu Portrait.xnb">
+      <PackagePath>Content\ElementsMenu\Menu Portrait.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\ElementsMenu\menuBouton.xnb">
+      <PackagePath>Content\ElementsMenu\menuBouton.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\ElementsMenu\MenuFin.xnb">
+      <PackagePath>Content\ElementsMenu\MenuFin.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\ElementsMenu\MenuFin2.xnb">
+      <PackagePath>Content\ElementsMenu\MenuFin2.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\ElementsMenu\Niveau precedent.xnb">
+      <PackagePath>Content\ElementsMenu\Niveau precedent.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\ElementsMenu\Niveau precedentA .xnb">
+      <PackagePath>Content\ElementsMenu\Niveau precedentA .xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\ElementsMenu\Niveau précédent foret A.xnb">
+      <PackagePath>Content\ElementsMenu\Niveau précédent foret A.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\ElementsMenu\Niveau précédent foret.xnb">
+      <PackagePath>Content\ElementsMenu\Niveau précédent foret.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\ElementsMenu\Niveau précédent volcan A.xnb">
+      <PackagePath>Content\ElementsMenu\Niveau précédent volcan A.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\ElementsMenu\Niveau précédent volcan.xnb">
+      <PackagePath>Content\ElementsMenu\Niveau précédent volcan.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\ElementsMenu\Niveau suivant foret.xnb">
+      <PackagePath>Content\ElementsMenu\Niveau suivant foret.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\ElementsMenu\Niveau suivant foretA.xnb">
+      <PackagePath>Content\ElementsMenu\Niveau suivant foretA.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\ElementsMenu\Niveau suivant volcan A.xnb">
+      <PackagePath>Content\ElementsMenu\Niveau suivant volcan A.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\ElementsMenu\Niveau suivant volcan.xnb">
+      <PackagePath>Content\ElementsMenu\Niveau suivant volcan.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\ElementsMenu\Niveau suivant.xnb">
+      <PackagePath>Content\ElementsMenu\Niveau suivant.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\ElementsMenu\Niveau suivantA.xnb">
+      <PackagePath>Content\ElementsMenu\Niveau suivantA.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\ElementsMenu\Noir.xnb">
+      <PackagePath>Content\ElementsMenu\Noir.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\ElementsMenu\Pause.xnb">
+      <PackagePath>Content\ElementsMenu\Pause.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\ElementsMenu\PauseA.xnb">
+      <PackagePath>Content\ElementsMenu\PauseA.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\ElementsMenu\Play.xnb">
+      <PackagePath>Content\ElementsMenu\Play.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\ElementsMenu\PlayA.xnb">
+      <PackagePath>Content\ElementsMenu\PlayA.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\ElementsMenu\Quitter.xnb">
+      <PackagePath>Content\ElementsMenu\Quitter.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\ElementsMenu\QuitterA.xnb">
+      <PackagePath>Content\ElementsMenu\QuitterA.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\ElementsMenu\Reprendre.xnb">
+      <PackagePath>Content\ElementsMenu\Reprendre.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\ElementsMenu\ReprendreA.xnb">
+      <PackagePath>Content\ElementsMenu\ReprendreA.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\ElementsMenu\reset.xnb">
+      <PackagePath>Content\ElementsMenu\reset.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\ElementsMenu\ResetA.xnb">
+      <PackagePath>Content\ElementsMenu\ResetA.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\ElementsMenu\Select niveau 0.xnb">
+      <PackagePath>Content\ElementsMenu\Select niveau 0.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\ElementsMenu\Select niveau foret.xnb">
+      <PackagePath>Content\ElementsMenu\Select niveau foret.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\ElementsMenu\Select niveau volcan.xnb">
+      <PackagePath>Content\ElementsMenu\Select niveau volcan.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\ElementsMenu\SonOff.xnb">
+      <PackagePath>Content\ElementsMenu\SonOff.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\ElementsMenu\SonOn.xnb">
+      <PackagePath>Content\ElementsMenu\SonOn.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\ElementsMenu\Succès.xnb">
+      <PackagePath>Content\ElementsMenu\Succès.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\ElementsMenu\SuccèsA.xnb">
+      <PackagePath>Content\ElementsMenu\SuccèsA.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\Ennemis\Ennemi Feu.xnb">
+      <PackagePath>Content\Ennemis\Ennemi Feu.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\Ennemis\Ennemi Terre.xnb">
+      <PackagePath>Content\Ennemis\Ennemi Terre.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\Ennemis\Sprite ennemi feu.xnb">
+      <PackagePath>Content\Ennemis\Sprite ennemi feu.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\Ennemis\Sprite ennemi terre.xnb">
+      <PackagePath>Content\Ennemis\Sprite ennemi terre.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\foretW.xnb">
+      <PackagePath>Content\foretW.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\Logo.xnb">
+      <PackagePath>Content\Logo.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\Parchemin\Affichage Compteur.xnb">
+      <PackagePath>Content\Parchemin\Affichage Compteur.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\Parchemin\Air.xnb">
+      <PackagePath>Content\Parchemin\Air.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\Parchemin\Eau.xnb">
+      <PackagePath>Content\Parchemin\Eau.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\Parchemin\Feu.xnb">
+      <PackagePath>Content\Parchemin\Feu.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\Parchemin\Sprite Eau.xnb">
+      <PackagePath>Content\Parchemin\Sprite Eau.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\Parchemin\Sprite feu.xnb">
+      <PackagePath>Content\Parchemin\Sprite feu.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\Parchemin\Sprite terre.xnb">
+      <PackagePath>Content\Parchemin\Sprite terre.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\Parchemin\Sprite Vent.xnb">
+      <PackagePath>Content\Parchemin\Sprite Vent.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\Parchemin\Terre.xnb">
+      <PackagePath>Content\Parchemin\Terre.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\ParchmentFont.xnb">
+      <PackagePath>Content\ParchmentFont.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\RouePouvoir-Sceptre\Air Active.xnb">
+      <PackagePath>Content\RouePouvoir-Sceptre\Air Active.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\RouePouvoir-Sceptre\Eau Active.xnb">
+      <PackagePath>Content\RouePouvoir-Sceptre\Eau Active.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\RouePouvoir-Sceptre\Feu Active.xnb">
+      <PackagePath>Content\RouePouvoir-Sceptre\Feu Active.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\RouePouvoir-Sceptre\Roue des pouvoir.xnb">
+      <PackagePath>Content\RouePouvoir-Sceptre\Roue des pouvoir.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\RouePouvoir-Sceptre\Sceptre%28eau%29.xnb">
+      <PackagePath>Content\RouePouvoir-Sceptre\Sceptre%28eau%29.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\RouePouvoir-Sceptre\Sceptre%28feu%29.xnb">
+      <PackagePath>Content\RouePouvoir-Sceptre\Sceptre%28feu%29.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\RouePouvoir-Sceptre\Sceptre%28terre%29.xnb">
+      <PackagePath>Content\RouePouvoir-Sceptre\Sceptre%28terre%29.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\RouePouvoir-Sceptre\Sceptre%28vent%29.xnb">
+      <PackagePath>Content\RouePouvoir-Sceptre\Sceptre%28vent%29.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\RouePouvoir-Sceptre\Sceptre.xnb">
+      <PackagePath>Content\RouePouvoir-Sceptre\Sceptre.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\RouePouvoir-Sceptre\Sprite Eau.xnb">
+      <PackagePath>Content\RouePouvoir-Sceptre\Sprite Eau.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\RouePouvoir-Sceptre\Sprite feu.xnb">
+      <PackagePath>Content\RouePouvoir-Sceptre\Sprite feu.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\RouePouvoir-Sceptre\Sprite Sceptre %28E%29.xnb">
+      <PackagePath>Content\RouePouvoir-Sceptre\Sprite Sceptre %28E%29.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\RouePouvoir-Sceptre\Sprite Sceptre %28F%29.xnb">
+      <PackagePath>Content\RouePouvoir-Sceptre\Sprite Sceptre %28F%29.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\RouePouvoir-Sceptre\Sprite Sceptre %28T%29.xnb">
+      <PackagePath>Content\RouePouvoir-Sceptre\Sprite Sceptre %28T%29.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\RouePouvoir-Sceptre\Sprite Sceptre %28V%29.xnb">
+      <PackagePath>Content\RouePouvoir-Sceptre\Sprite Sceptre %28V%29.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\RouePouvoir-Sceptre\Sprite terre.xnb">
+      <PackagePath>Content\RouePouvoir-Sceptre\Sprite terre.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\RouePouvoir-Sceptre\Terre Active.xnb">
+      <PackagePath>Content\RouePouvoir-Sceptre\Terre Active.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\RouePouvoir-Sceptre\truc des sorts.xnb">
+      <PackagePath>Content\RouePouvoir-Sceptre\truc des sorts.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\Septre%28eau%29.xnb">
+      <PackagePath>Content\Septre%28eau%29.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\Septre%28feu%29.xnb">
+      <PackagePath>Content\Septre%28feu%29.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\Septre%28terre%29.xnb">
+      <PackagePath>Content\Septre%28terre%29.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\Septre.xnb">
+      <PackagePath>Content\Septre.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\ShowCard.xnb">
+      <PackagePath>Content\ShowCard.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\Sprite Magicienne dos.xnb">
+      <PackagePath>Content\Sprite Magicienne dos.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\Sprite magicienne marche1.xnb">
+      <PackagePath>Content\Sprite magicienne marche1.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\Sprite magicienne.xnb">
+      <PackagePath>Content\Sprite magicienne.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\Terrain\bout1E.xnb">
+      <PackagePath>Content\Terrain\bout1E.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\Terrain\bout1F.xnb">
+      <PackagePath>Content\Terrain\bout1F.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\Terrain\bout1T.xnb">
+      <PackagePath>Content\Terrain\bout1T.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\Terrain\bout2E.xnb">
+      <PackagePath>Content\Terrain\bout2E.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\Terrain\bout2F.xnb">
+      <PackagePath>Content\Terrain\bout2F.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\Terrain\bout2T.xnb">
+      <PackagePath>Content\Terrain\bout2T.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\Terrain\bout3E.xnb">
+      <PackagePath>Content\Terrain\bout3E.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\Terrain\bout3F.xnb">
+      <PackagePath>Content\Terrain\bout3F.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\Terrain\bout3T.xnb">
+      <PackagePath>Content\Terrain\bout3T.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\Terrain\boutDE.xnb">
+      <PackagePath>Content\Terrain\boutDE.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\Terrain\boutDF.xnb">
+      <PackagePath>Content\Terrain\boutDF.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\Terrain\boutDT.xnb">
+      <PackagePath>Content\Terrain\boutDT.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\Terrain\boutFE.xnb">
+      <PackagePath>Content\Terrain\boutFE.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\Terrain\boutFF.xnb">
+      <PackagePath>Content\Terrain\boutFF.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\Terrain\boutFT.xnb">
+      <PackagePath>Content\Terrain\boutFT.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\terre qui casse.xnb">
+      <PackagePath>Content\terre qui casse.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\vent son.xnb">
+      <PackagePath>Content\vent son.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\ElementsInteractifs\geyser gaz.png">
+      <PackagePath>Content\ElementsInteractifs\geyser gaz.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\ElementsInteractifs\geyser péti.png">
+      <PackagePath>Content\ElementsInteractifs\geyser péti.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\ElementsInteractifs\pillier flame.png">
+      <PackagePath>Content\ElementsInteractifs\pillier flame.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\ElementsInteractifs\pillier éteint.png">
+      <PackagePath>Content\ElementsInteractifs\pillier éteint.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\ElementsInteractifs\Terrain enflammer.png">
+      <PackagePath>Content\ElementsInteractifs\Terrain enflammer.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\ElementsInteractifs\Terrain feu.png">
+      <PackagePath>Content\ElementsInteractifs\Terrain feu.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\ElementsInteractifs\Terrain friable feu.png">
+      <PackagePath>Content\ElementsInteractifs\Terrain friable feu.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\ElementsMenu\BougecamA.png">
+      <PackagePath>Content\ElementsMenu\BougecamA.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Content\ElementsMenu\Bougecam.png">
+      <PackagePath>Content\ElementsMenu\Bougecam.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\Magic - Scroll.csproj.user">
+      <PackagePath>Magic - Scroll.csproj.user</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ringo\Documents\games\labo_game\Magic-scroll 2013-2014\GameName3\bin\Windows8\x86\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -7,8 +7,8 @@
     <ProjectGuid>{81CC2EC5-B878-4A38-BE39-702868EDE69F}</ProjectGuid>
     <OutputType>AppContainerExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>GameName3</RootNamespace>
-    <AssemblyName>GameName3</AssemblyName>
+    <RootNamespace>MagicScroll</RootNamespace>
+    <AssemblyName>MagicScroll</AssemblyName>
     <DefaultLanguage>fr-FR</DefaultLanguage>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{BC8A1FFA-BEE3-4634-8014-F334798102B3};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
@@ -149,7 +149,7 @@
     <Compile Include="Elements_Interactif\NuagePlateforme.cs" />
     <Compile Include="Elements_Interactif\PillierGaz.cs" />
     <Compile Include="Elements_Interactif\Ronce.cs" />
-    <Compile Include="Elements_Interactif\Souriscs.cs" />
+    <Compile Include="Elements_Interactif\Souris.cs" />
     <Compile Include="ennemis.cs" />
     <Compile Include="Jeu.cs" />
     <Compile Include="Perso.cs" />

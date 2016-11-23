@@ -3,14 +3,18 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Magic-Scroll", "GameName3\Magic-Scroll.csproj", "{81CC2EC5-B878-4A38-BE39-702868EDE69F}"
 EndProject
+Project("{930C7802-8A8C-48F9-8165-68863BCCD9DD}") = "Magic-Scroll setup", "Magic-Scroll setup\Magic-Scroll setup.wixproj", "{6341D572-DD7A-489F-A564-95B1EFFABFFC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Debug|ARM = Debug|ARM
+		Debug|Mixed Platforms = Debug|Mixed Platforms
 		Debug|x64 = Debug|x64
 		Debug|x86 = Debug|x86
 		Release|Any CPU = Release|Any CPU
 		Release|ARM = Release|ARM
+		Release|Mixed Platforms = Release|Mixed Platforms
 		Release|x64 = Release|x64
 		Release|x86 = Release|x86
 	EndGlobalSection
@@ -21,6 +25,9 @@ Global
 		{81CC2EC5-B878-4A38-BE39-702868EDE69F}.Debug|ARM.ActiveCfg = Debug|ARM
 		{81CC2EC5-B878-4A38-BE39-702868EDE69F}.Debug|ARM.Build.0 = Debug|ARM
 		{81CC2EC5-B878-4A38-BE39-702868EDE69F}.Debug|ARM.Deploy.0 = Debug|ARM
+		{81CC2EC5-B878-4A38-BE39-702868EDE69F}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{81CC2EC5-B878-4A38-BE39-702868EDE69F}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{81CC2EC5-B878-4A38-BE39-702868EDE69F}.Debug|Mixed Platforms.Deploy.0 = Debug|x86
 		{81CC2EC5-B878-4A38-BE39-702868EDE69F}.Debug|x64.ActiveCfg = Debug|x64
 		{81CC2EC5-B878-4A38-BE39-702868EDE69F}.Debug|x64.Build.0 = Debug|x64
 		{81CC2EC5-B878-4A38-BE39-702868EDE69F}.Debug|x64.Deploy.0 = Debug|x64
@@ -33,12 +40,30 @@ Global
 		{81CC2EC5-B878-4A38-BE39-702868EDE69F}.Release|ARM.ActiveCfg = Release|ARM
 		{81CC2EC5-B878-4A38-BE39-702868EDE69F}.Release|ARM.Build.0 = Release|ARM
 		{81CC2EC5-B878-4A38-BE39-702868EDE69F}.Release|ARM.Deploy.0 = Release|ARM
+		{81CC2EC5-B878-4A38-BE39-702868EDE69F}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{81CC2EC5-B878-4A38-BE39-702868EDE69F}.Release|Mixed Platforms.Build.0 = Release|x86
+		{81CC2EC5-B878-4A38-BE39-702868EDE69F}.Release|Mixed Platforms.Deploy.0 = Release|x86
 		{81CC2EC5-B878-4A38-BE39-702868EDE69F}.Release|x64.ActiveCfg = Release|x64
 		{81CC2EC5-B878-4A38-BE39-702868EDE69F}.Release|x64.Build.0 = Release|x64
 		{81CC2EC5-B878-4A38-BE39-702868EDE69F}.Release|x64.Deploy.0 = Release|x64
 		{81CC2EC5-B878-4A38-BE39-702868EDE69F}.Release|x86.ActiveCfg = Release|x86
 		{81CC2EC5-B878-4A38-BE39-702868EDE69F}.Release|x86.Build.0 = Release|x86
 		{81CC2EC5-B878-4A38-BE39-702868EDE69F}.Release|x86.Deploy.0 = Release|x86
+		{6341D572-DD7A-489F-A564-95B1EFFABFFC}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{6341D572-DD7A-489F-A564-95B1EFFABFFC}.Debug|ARM.ActiveCfg = Debug|x86
+		{6341D572-DD7A-489F-A564-95B1EFFABFFC}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{6341D572-DD7A-489F-A564-95B1EFFABFFC}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{6341D572-DD7A-489F-A564-95B1EFFABFFC}.Debug|x64.ActiveCfg = Debug|x86
+		{6341D572-DD7A-489F-A564-95B1EFFABFFC}.Debug|x86.ActiveCfg = Debug|x86
+		{6341D572-DD7A-489F-A564-95B1EFFABFFC}.Debug|x86.Build.0 = Debug|x86
+		{6341D572-DD7A-489F-A564-95B1EFFABFFC}.Release|Any CPU.ActiveCfg = Release|x86
+		{6341D572-DD7A-489F-A564-95B1EFFABFFC}.Release|ARM.ActiveCfg = Release|x86
+		{6341D572-DD7A-489F-A564-95B1EFFABFFC}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{6341D572-DD7A-489F-A564-95B1EFFABFFC}.Release|Mixed Platforms.Build.0 = Release|x86
+		{6341D572-DD7A-489F-A564-95B1EFFABFFC}.Release|Mixed Platforms.Deploy.0 = Release|x86
+		{6341D572-DD7A-489F-A564-95B1EFFABFFC}.Release|x64.ActiveCfg = Release|x86
+		{6341D572-DD7A-489F-A564-95B1EFFABFFC}.Release|x86.ActiveCfg = Release|x86
+		{6341D572-DD7A-489F-A564-95B1EFFABFFC}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
